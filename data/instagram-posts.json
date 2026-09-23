@@ -1,0 +1,9 @@
+{
+  "profile": "https://www.instagram.com/lussoautoexclusive/",
+  "status": "not-extracted",
+  "reason": "Apify authentication failed: the APIFY_TOKEN Codespaces secret is 14 characters long (real tokens start with 'apify_api_' and are ~46 characters) and api.apify.com/v2/users/me returns HTTP 401. Direct requests to Instagram from this Codespace return 'require_login' (HTTP 401). No Instagram data has been used anywhere on the site.",
+  "howToFix": "Replace the APIFY_TOKEN Codespaces secret with a valid token, restart the Codespace, then run: npm run fetch:instagram -- --limit=150 && npm run data:vehicles",
+  "attemptedAt": "2026-09-22",
+  "count": 0,
+  "posts": []
+}

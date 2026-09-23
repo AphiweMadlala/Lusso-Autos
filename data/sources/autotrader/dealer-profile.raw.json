@@ -1,0 +1,4932 @@
+{
+ "retrievedAt": "2026-09-23",
+ "id": 113036,
+ "name": "Lusso Auto",
+ "showGroupUrl": false,
+ "displayGroupName": false,
+ "aboutUs": "Lusso Auto is Cape Town's boutique supercar specialist, offering carefully selected sports, luxury and collector vehicles. Founded by industry professionals with experience at Mercedes-Benz, BMW, Maserati and Ferrari, every vehicle is hand-selected for provenance, condition and driving enjoyment. We don't simply sell cars—we curate collections and build long-term relationships with enthusiasts throughout South Africa.\n\nEvery Lusso Auto vehicle is inspected, road tested and honestly represented. If a vehicle has cosmetic imperfections or modifications, we disclose them upfront.",
+ "suburbName": "Northgate Business Park",
+ "logoUrl": "https://img.autotrader.co.za/29733915",
+ "vehicleCategory": 1,
+ "searchViewModel": {
+  "query": {
+   "vehicleCategory": 1,
+   "sortOrder": 0,
+   "pageNumber": 1,
+   "dealerId": 113036,
+   "priceOption": 1,
+   "searchFilterCount": 0,
+   "searchFilterCountExceptMakeModel": 0
+  },
+  "results": {
+   "pageNumber": 1,
+   "pageCount": 2,
+   "featuredTiles": [],
+   "results": [
+    {
+     "resultType": 1,
+     "listingId": 28755685,
+     "canonicalUrl": "/car-for-sale/land-rover/defender/110/28755685",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=5&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/50593582",
+     "imageCount": 30,
+     "isCommercial": false,
+     "makeModel": "Land Rover Defender",
+     "make": "Land Rover",
+     "model": "Defender",
+     "variant": "110 TD Double Cab S",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "139 800 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-manual.svg?z=7b0c4e",
+       "text": "Manual",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/diesel.svg?z=7b0c4e",
+       "text": "Diesel",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "Land Rover Defender 110 TD Double Cab S",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/50593568",
+      "https://img.autotrader.co.za/50593574",
+      "https://img.autotrader.co.za/50593577",
+      "https://img.autotrader.co.za/50593580",
+      "https://img.autotrader.co.za/50593566",
+      "https://img.autotrader.co.za/50593567"
+     ],
+     "cssClassName": "ConsumerRidge",
+     "index": 0,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2012,
+     "indicators": {
+      "priceRating": 5,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 799 000",
+     "priceExVat": "R 694 783 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 1,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": false
+    },
+    {
+     "resultType": 1,
+     "listingId": 28737210,
+     "canonicalUrl": "/car-for-sale/porsche/718-cayman/718/28737210",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=2&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/50271493",
+     "imageCount": 30,
+     "isCommercial": false,
+     "makeModel": "Porsche 718 Cayman",
+     "make": "Porsche",
+     "model": "718 Cayman",
+     "variant": "718 Cayman S Auto",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "54 450 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-automatic.svg?z=7b0c4e",
+       "text": "Automatic",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/petrol.svg?z=7b0c4e",
+       "text": "Petrol",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "Porsche 718 Cayman 718 Cayman S Auto",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/50271475",
+      "https://img.autotrader.co.za/50271525",
+      "https://img.autotrader.co.za/50271504",
+      "https://img.autotrader.co.za/50271536",
+      "https://img.autotrader.co.za/50271472",
+      "https://img.autotrader.co.za/50271393"
+     ],
+     "cssClassName": "ConsumerUpstaged",
+     "index": 1,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2017,
+     "indicators": {
+      "priceRating": 2,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 949 000",
+     "priceExVat": "R 825 217 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 2,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": false
+    },
+    {
+     "resultType": 1,
+     "listingId": 28749095,
+     "canonicalUrl": "/car-for-sale/bmw/i8/edrive-coupe/28749095",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=3&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/50368234",
+     "imageCount": 30,
+     "isCommercial": false,
+     "makeModel": "BMW i8",
+     "make": "BMW",
+     "model": "i8",
+     "variant": "eDrive Coupe",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "45 700 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-automatic.svg?z=7b0c4e",
+       "text": "Automatic",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/hybrid.svg?z=7b0c4e",
+       "text": "Hybrid",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "BMW i8 eDrive Coupe",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/50368241",
+      "https://img.autotrader.co.za/50368224",
+      "https://img.autotrader.co.za/50368228",
+      "https://img.autotrader.co.za/50368226",
+      "https://img.autotrader.co.za/50368251",
+      "https://img.autotrader.co.za/50368214"
+     ],
+     "cssClassName": "ConsumerStrikes",
+     "index": 2,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2016,
+     "indicators": {
+      "priceRating": 3,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 995 000",
+     "priceExVat": "R 865 217 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 3,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": true
+    },
+    {
+     "resultType": 1,
+     "listingId": 28749123,
+     "canonicalUrl": "/car-for-sale/audi/r8/5.2/28749123",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=5&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/50475954",
+     "imageCount": 30,
+     "isCommercial": false,
+     "makeModel": "Audi R8",
+     "make": "Audi",
+     "model": "R8",
+     "variant": "5.2 V10 plus Quattro",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "68 500 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-automatic.svg?z=7b0c4e",
+       "text": "Automatic",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/petrol.svg?z=7b0c4e",
+       "text": "Petrol",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "Audi R8 5.2 V10 plus Quattro",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/50475977",
+      "https://img.autotrader.co.za/50475956",
+      "https://img.autotrader.co.za/50475973",
+      "https://img.autotrader.co.za/50476003",
+      "https://img.autotrader.co.za/50475959",
+      "https://img.autotrader.co.za/50475963"
+     ],
+     "cssClassName": "ConsumerTuber",
+     "index": 3,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2017,
+     "indicators": {
+      "priceRating": 5,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 2 399 000",
+     "priceExVat": "R 2 086 087 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 4,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": false
+    },
+    {
+     "resultType": 1,
+     "listingId": 28741365,
+     "canonicalUrl": "/car-for-sale/audi/tt/2.5/28741365",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=5&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/50366841",
+     "imageCount": 30,
+     "isCommercial": false,
+     "makeModel": "Audi TT",
+     "make": "Audi",
+     "model": "TT",
+     "variant": "RS Roadster Quattro",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "38 500 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-automatic.svg?z=7b0c4e",
+       "text": "Automatic",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/petrol.svg?z=7b0c4e",
+       "text": "Petrol",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "Audi TT RS Roadster Quattro",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/50366753",
+      "https://img.autotrader.co.za/50366764",
+      "https://img.autotrader.co.za/50366697",
+      "https://img.autotrader.co.za/50366718",
+      "https://img.autotrader.co.za/50366721",
+      "https://img.autotrader.co.za/50366728"
+     ],
+     "cssClassName": "ConsumerSnubbing",
+     "index": 4,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2022,
+     "indicators": {
+      "priceRating": 5,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 949 000",
+     "priceExVat": "R 825 217 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 5,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": false
+    },
+    {
+     "resultType": 1,
+     "listingId": 28644704,
+     "canonicalUrl": "/car-for-sale/ferrari/dino/308/28644704",
+     "imageCount": 0,
+     "isCommercial": false,
+     "sellerType": 0,
+     "showDealerLogo": false,
+     "userHasGeolocation": false,
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "isPremium": false,
+     "cssClassName": "ConsumerUnzip",
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "indicators": {
+      "priceRating": 5,
+      "specials": [],
+      "enablePriceRatings": false,
+      "showInfoModal": false,
+      "priceNegotiable": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "isCarsChannel": false,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 0,
+     "recentlyViewed": false,
+     "hasVehicleInsights": false
+    },
+    {
+     "resultType": 1,
+     "listingId": 28731371,
+     "canonicalUrl": "/car-for-sale/ferrari/dino/308/28731371",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=5&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/50174812",
+     "imageCount": 30,
+     "isCommercial": false,
+     "makeModel": "Ferrari Dino",
+     "make": "Ferrari",
+     "model": "Dino",
+     "variant": "308 GT4",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "89 000 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-manual.svg?z=7b0c4e",
+       "text": "Manual",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/petrol.svg?z=7b0c4e",
+       "text": "Petrol",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "Ferrari Dino 308 GT4",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/50174820",
+      "https://img.autotrader.co.za/50174819",
+      "https://img.autotrader.co.za/50174828",
+      "https://img.autotrader.co.za/50174824",
+      "https://img.autotrader.co.za/50174829",
+      "https://img.autotrader.co.za/50174809"
+     ],
+     "cssClassName": "ConsumerPampers",
+     "index": 5,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 1977,
+     "indicators": {
+      "priceRating": 5,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 1 695 000",
+     "priceExVat": "R 1 473 913 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 6,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": false
+    },
+    {
+     "resultType": 1,
+     "listingId": 28725181,
+     "canonicalUrl": "/car-for-sale/porsche/macan/macan/28725181",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=3&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/50072978",
+     "imageCount": 30,
+     "isCommercial": false,
+     "makeModel": "Porsche Macan",
+     "make": "Porsche",
+     "model": "Macan",
+     "variant": "Macan",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "91 000 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-automatic.svg?z=7b0c4e",
+       "text": "Automatic",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/petrol.svg?z=7b0c4e",
+       "text": "Petrol",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "Porsche Macan Macan",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/50073037",
+      "https://img.autotrader.co.za/50072933",
+      "https://img.autotrader.co.za/50073040",
+      "https://img.autotrader.co.za/50073027",
+      "https://img.autotrader.co.za/50072875",
+      "https://img.autotrader.co.za/50073010"
+     ],
+     "cssClassName": "ConsumerCameras",
+     "index": 6,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2019,
+     "indicators": {
+      "priceRating": 3,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 799 000",
+     "priceExVat": "R 694 783 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 7,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": false
+    },
+    {
+     "resultType": 1,
+     "listingId": 28724901,
+     "canonicalUrl": "/car-for-sale/land-rover/range-rover-sport/svr/28724901",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=5&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/50068394",
+     "imageCount": 30,
+     "isCommercial": false,
+     "makeModel": "Land Rover Range Rover Sport",
+     "make": "Land Rover",
+     "model": "Range Rover Sport",
+     "variant": "SVR",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "103 500 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-automatic.svg?z=7b0c4e",
+       "text": "Automatic",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/petrol.svg?z=7b0c4e",
+       "text": "Petrol",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "Land Rover Range Rover Sport SVR",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/50068381",
+      "https://img.autotrader.co.za/50068395",
+      "https://img.autotrader.co.za/50068390",
+      "https://img.autotrader.co.za/50068518",
+      "https://img.autotrader.co.za/50068370",
+      "https://img.autotrader.co.za/50068472"
+     ],
+     "cssClassName": "ConsumerPerforce",
+     "index": 7,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2016,
+     "indicators": {
+      "priceRating": 5,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 799 000",
+     "priceExVat": "R 694 783 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 8,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": false
+    },
+    {
+     "resultType": 1,
+     "listingId": 28551772,
+     "canonicalUrl": "/car-for-sale/ferrari/sf90/stradale/28551772",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=5&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/50270576",
+     "imageCount": 30,
+     "isCommercial": false,
+     "makeModel": "Ferrari SF90",
+     "make": "Ferrari",
+     "model": "SF90",
+     "variant": "Stradale",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "4 850 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-automatic.svg?z=7b0c4e",
+       "text": "Automatic",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/hybrid.svg?z=7b0c4e",
+       "text": "Hybrid",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "Ferrari SF90 Stradale",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/50270618",
+      "https://img.autotrader.co.za/50270570",
+      "https://img.autotrader.co.za/50270631",
+      "https://img.autotrader.co.za/50270496",
+      "https://img.autotrader.co.za/50270622",
+      "https://img.autotrader.co.za/50270341"
+     ],
+     "cssClassName": "ConsumerEmporia",
+     "index": 8,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2021,
+     "indicators": {
+      "priceRating": 5,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 11 995 000",
+     "priceExVat": "R 10 430 435 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 9,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": false
+    },
+    {
+     "resultType": 1,
+     "listingId": 28687690,
+     "canonicalUrl": "/car-for-sale/porsche/cayenne/gts/28687690",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=2&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/50367500",
+     "imageCount": 30,
+     "isCommercial": false,
+     "makeModel": "Porsche Cayenne",
+     "make": "Porsche",
+     "model": "Cayenne",
+     "variant": "GTS",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "68 500 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-automatic.svg?z=7b0c4e",
+       "text": "Automatic",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/petrol.svg?z=7b0c4e",
+       "text": "Petrol",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "Porsche Cayenne GTS",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/50367510",
+      "https://img.autotrader.co.za/50367358",
+      "https://img.autotrader.co.za/50367507",
+      "https://img.autotrader.co.za/50367497",
+      "https://img.autotrader.co.za/50367382",
+      "https://img.autotrader.co.za/50367492"
+     ],
+     "cssClassName": "ConsumerUnhook",
+     "index": 9,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2016,
+     "indicators": {
+      "priceRating": 2,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 699 000",
+     "priceExVat": "R 607 826 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 10,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": true
+    },
+    {
+     "resultType": 1,
+     "listingId": 28610360,
+     "canonicalUrl": "/car-for-sale/bmw/2-series/m240i/28610360",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=3&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/50264137",
+     "imageCount": 29,
+     "isCommercial": false,
+     "makeModel": "BMW 2 Series",
+     "make": "BMW",
+     "model": "2 Series",
+     "variant": "M240i xDrive Coupe",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "33 500 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-automatic.svg?z=7b0c4e",
+       "text": "Automatic",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/petrol.svg?z=7b0c4e",
+       "text": "Petrol",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "BMW 2 Series M240i xDrive Coupe",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/50264230",
+      "https://img.autotrader.co.za/50264219",
+      "https://img.autotrader.co.za/50264179",
+      "https://img.autotrader.co.za/50264272",
+      "https://img.autotrader.co.za/50264209",
+      "https://img.autotrader.co.za/50264111"
+     ],
+     "cssClassName": "ConsumerDovecote",
+     "index": 10,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2022,
+     "indicators": {
+      "priceRating": 3,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 899 000",
+     "priceExVat": "R 781 739 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 11,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": false
+    },
+    {
+     "resultType": 1,
+     "listingId": 28720345,
+     "canonicalUrl": "/car-for-sale/ferrari/550/maranello/28720345",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=5&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/50010522",
+     "imageCount": 30,
+     "isCommercial": false,
+     "makeModel": "Ferrari 550",
+     "make": "Ferrari",
+     "model": "550",
+     "variant": "Maranello",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "27 100 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-manual.svg?z=7b0c4e",
+       "text": "Manual",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/petrol.svg?z=7b0c4e",
+       "text": "Petrol",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "Ferrari 550 Maranello",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/50010508",
+      "https://img.autotrader.co.za/50010523",
+      "https://img.autotrader.co.za/50010517",
+      "https://img.autotrader.co.za/50010510",
+      "https://img.autotrader.co.za/50010509",
+      "https://img.autotrader.co.za/50010515"
+     ],
+     "cssClassName": "ConsumerBrownie",
+     "index": 11,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2000,
+     "indicators": {
+      "priceRating": 5,
+      "specials": [],
+      "enablePriceRatings": false,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "POA",
+     "priceExVat": "",
+     "isCarsChannel": true,
+     "isPOA": true,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 12,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": false
+    },
+    {
+     "resultType": 1,
+     "listingId": 28718726,
+     "canonicalUrl": "/car-for-sale/bmw/3-series/320d/28718726",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=3&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/49984248",
+     "imageCount": 30,
+     "isCommercial": false,
+     "makeModel": "BMW 3 Series",
+     "make": "BMW",
+     "model": "3 Series",
+     "variant": "320d M Sport",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "41 000 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-automatic.svg?z=7b0c4e",
+       "text": "Automatic",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/diesel.svg?z=7b0c4e",
+       "text": "Diesel",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "BMW 3 Series 320d M Sport",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/49984137",
+      "https://img.autotrader.co.za/49984122",
+      "https://img.autotrader.co.za/49984130",
+      "https://img.autotrader.co.za/49984136",
+      "https://img.autotrader.co.za/49984132",
+      "https://img.autotrader.co.za/49984110"
+     ],
+     "cssClassName": "ConsumerOutcrops",
+     "index": 12,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2024,
+     "indicators": {
+      "priceRating": 3,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 799 000",
+     "priceExVat": "R 694 783 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 13,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": false
+    },
+    {
+     "resultType": 1,
+     "listingId": 28696844,
+     "canonicalUrl": "/car-for-sale/alfa-romeo/giulietta/qv/28696844",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=5&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/49581734",
+     "imageCount": 30,
+     "isCommercial": false,
+     "makeModel": "Alfa Romeo Giulietta",
+     "make": "Alfa Romeo",
+     "model": "Giulietta",
+     "variant": "1750TBi Quadrifoglio Verde",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "90 000 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-automatic.svg?z=7b0c4e",
+       "text": "Automatic",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/petrol.svg?z=7b0c4e",
+       "text": "Petrol",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "Alfa Romeo Giulietta 1750TBi Quadrifoglio Verde",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/49581726",
+      "https://img.autotrader.co.za/49581720",
+      "https://img.autotrader.co.za/49581729",
+      "https://img.autotrader.co.za/49581738",
+      "https://img.autotrader.co.za/49581730",
+      "https://img.autotrader.co.za/49581721"
+     ],
+     "cssClassName": "ConsumerRebounds",
+     "index": 13,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2016,
+     "indicators": {
+      "priceRating": 5,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 419 000",
+     "priceExVat": "R 364 348 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 14,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": false
+    },
+    {
+     "resultType": 1,
+     "listingId": 28650519,
+     "canonicalUrl": "/car-for-sale/mercedes-benz/gle/gle400/28650519",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=3&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/48749313",
+     "imageCount": 24,
+     "isCommercial": false,
+     "makeModel": "Mercedes-Benz GLE",
+     "make": "Mercedes-Benz",
+     "model": "GLE",
+     "variant": "GLE400d Coupe 4Matic AMG Line",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "53 850 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-automatic.svg?z=7b0c4e",
+       "text": "Automatic",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/diesel.svg?z=7b0c4e",
+       "text": "Diesel",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "Mercedes-Benz GLE GLE400d Coupe 4Matic AMG Line",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/48746760",
+      "https://img.autotrader.co.za/48746790",
+      "https://img.autotrader.co.za/48746825",
+      "https://img.autotrader.co.za/48746805",
+      "https://img.autotrader.co.za/48746753",
+      "https://img.autotrader.co.za/48746750"
+     ],
+     "cssClassName": "ConsumerReworked",
+     "index": 14,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2023,
+     "indicators": {
+      "priceRating": 3,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 1 499 000",
+     "priceExVat": "R 1 303 478 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 15,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": false
+    },
+    {
+     "resultType": 1,
+     "listingId": 28630189,
+     "canonicalUrl": "/car-for-sale/ferrari/gtc4lusso/4-lusso/28630189",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=5&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/50173424",
+     "imageCount": 30,
+     "isCommercial": false,
+     "makeModel": "Ferrari GTC4Lusso",
+     "make": "Ferrari",
+     "model": "GTC4Lusso",
+     "variant": "GTC4Lusso",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "22 200 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-automatic.svg?z=7b0c4e",
+       "text": "Automatic",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/petrol.svg?z=7b0c4e",
+       "text": "Petrol",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "Ferrari GTC4Lusso GTC4Lusso",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/50173441",
+      "https://img.autotrader.co.za/50173463",
+      "https://img.autotrader.co.za/50173427",
+      "https://img.autotrader.co.za/50173416",
+      "https://img.autotrader.co.za/50173435",
+      "https://img.autotrader.co.za/50173414"
+     ],
+     "cssClassName": "ConsumerBlocs",
+     "index": 15,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2017,
+     "indicators": {
+      "priceRating": 5,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 5 699 000",
+     "priceExVat": "R 4 955 652 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 16,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": false
+    },
+    {
+     "resultType": 1,
+     "listingId": 28628595,
+     "canonicalUrl": "/car-for-sale/ferrari/296/gts/28628595",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=5&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/50269255",
+     "imageCount": 30,
+     "isCommercial": false,
+     "makeModel": "Ferrari 296",
+     "make": "Ferrari",
+     "model": "296",
+     "variant": "GTS",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "7 600 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-automatic.svg?z=7b0c4e",
+       "text": "Automatic",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/hybrid.svg?z=7b0c4e",
+       "text": "Hybrid",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "Ferrari 296 GTS",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/50269090",
+      "https://img.autotrader.co.za/50269291",
+      "https://img.autotrader.co.za/50269134",
+      "https://img.autotrader.co.za/50268888",
+      "https://img.autotrader.co.za/50268929",
+      "https://img.autotrader.co.za/50269028"
+     ],
+     "cssClassName": "ConsumerInfill",
+     "index": 16,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2024,
+     "indicators": {
+      "priceRating": 5,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 8 999 000",
+     "priceExVat": "R 7 825 217 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 17,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": false
+    },
+    {
+     "resultType": 1,
+     "listingId": 28486975,
+     "canonicalUrl": "/car-for-sale/bmw/x6/m50i/28486975",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=3&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/48427105",
+     "imageCount": 30,
+     "isCommercial": false,
+     "makeModel": "BMW X6",
+     "make": "BMW",
+     "model": "X6",
+     "variant": "M50i",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "76 000 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-automatic.svg?z=7b0c4e",
+       "text": "Automatic",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/petrol.svg?z=7b0c4e",
+       "text": "Petrol",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "BMW X6 M50i",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/47577356",
+      "https://img.autotrader.co.za/47577329",
+      "https://img.autotrader.co.za/47577334",
+      "https://img.autotrader.co.za/47577363",
+      "https://img.autotrader.co.za/47577360",
+      "https://img.autotrader.co.za/47577350"
+     ],
+     "cssClassName": "ConsumerKeyword",
+     "index": 17,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2020,
+     "indicators": {
+      "priceRating": 3,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 1 085 000",
+     "priceExVat": "R 943 478 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 18,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": true
+    },
+    {
+     "resultType": 1,
+     "listingId": 28505889,
+     "canonicalUrl": "/car-for-sale/porsche/cayenne/turbo/28505889",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=3&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/48007845",
+     "imageCount": 30,
+     "isCommercial": false,
+     "makeModel": "Porsche Cayenne",
+     "make": "Porsche",
+     "model": "Cayenne",
+     "variant": "Turbo",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "119 750 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-automatic.svg?z=7b0c4e",
+       "text": "Automatic",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/petrol.svg?z=7b0c4e",
+       "text": "Petrol",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "Porsche Cayenne Turbo",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/48007854",
+      "https://img.autotrader.co.za/48007852",
+      "https://img.autotrader.co.za/46350690",
+      "https://img.autotrader.co.za/46350703",
+      "https://img.autotrader.co.za/48007847",
+      "https://img.autotrader.co.za/48007841"
+     ],
+     "cssClassName": "ConsumerUncurled",
+     "index": 18,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2018,
+     "indicators": {
+      "priceRating": 3,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 1 299 000",
+     "priceExVat": "R 1 129 565 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 19,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": false
+    },
+    {
+     "resultType": 1,
+     "listingId": 28558100,
+     "canonicalUrl": "/car-for-sale/ferrari/california/30/28558100",
+     "queryParameters": "vf=6&db=1&s360=0&so=1&pl=0&pr=5&po=1&sp=4",
+     "imageUrl": "https://img.autotrader.co.za/48471435",
+     "imageCount": 26,
+     "isCommercial": false,
+     "makeModel": "Ferrari California",
+     "make": "Ferrari",
+     "model": "California",
+     "variant": "30",
+     "newUsedDescription": "Used Car",
+     "sellerType": 1,
+     "dealerName": "Lusso Auto",
+     "dealerSuburbName": "Northgate Business Park",
+     "dealerCityName": "Milnerton",
+     "dealerUrl": "/dealer/lusso-auto/113036?category=Cars",
+     "showDealerLogo": true,
+     "userHasGeolocation": false,
+     "dealerLocation": {
+      "latitude": -33.913475,
+      "longitude": 18.488085
+     },
+     "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915/Fit160x120",
+     "isFavourite": false,
+     "isInactive": false,
+     "shouldAutoFocus": false,
+     "summaryIcons": [
+      {
+       "url": "/Common/Content/Images/Icons/Tile/car-front.svg?z=7b388b",
+       "text": "Used",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/mileage.svg?z=7b0c4e",
+       "text": "19 500 km",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/transmission-automatic.svg?z=7b0c4e",
+       "text": "Automatic",
+       "type": 1
+      },
+      {
+       "url": "/Common/Content/Images/Icons/Tile/petrol.svg?z=7b0c4e",
+       "text": "Petrol",
+       "type": 1
+      }
+     ],
+     "makeModelLongVariant": "Ferrari California 30",
+     "isPremium": false,
+     "standOutImageUrls": [
+      "https://img.autotrader.co.za/47189639",
+      "https://img.autotrader.co.za/47189647",
+      "https://img.autotrader.co.za/47189630",
+      "https://img.autotrader.co.za/47189627",
+      "https://img.autotrader.co.za/47189648",
+      "https://img.autotrader.co.za/47189637"
+     ],
+     "cssClassName": "ConsumerPodgy",
+     "index": 19,
+     "hasSpin360": false,
+     "isDemo": false,
+     "isCertifiedUsedCar": false,
+     "registrationYear": 2017,
+     "indicators": {
+      "priceRating": 5,
+      "specials": [],
+      "enablePriceRatings": true,
+      "showInfoModal": false,
+      "marketPriceData": {
+       "averageMarketPriceDifference": 0,
+       "averageMarketPriceDifferenceFormatted": "",
+       "marketPosition": 3,
+       "description": " none market average"
+      }
+     },
+     "isSpecial": false,
+     "isPriceSpecial": false,
+     "price": "R 2 449 000",
+     "priceExVat": "R 2 129 565 excl. VAT",
+     "isCarsChannel": true,
+     "isPOA": false,
+     "priceRating": 0,
+     "displayWarrantyStrapLine": false,
+     "displayFittedExtrasStrapLine": false,
+     "impressionTileType": 1,
+     "rank": 20,
+     "recentlyViewed": false,
+     "dealerRating": {
+      "score": 4.1,
+      "ratingCount": 10,
+      "showRating": true,
+      "hasRecentRating": true,
+      "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+     },
+     "sortOrderPackage": 4,
+     "sortOrder": 0,
+     "hasVehicleInsights": false
+    }
+   ],
+   "resultCount": 29,
+   "useFeaturedTiles": false,
+   "segmentListingsByType": false,
+   "cssClassNames": [
+    "ConsumerPeacock",
+    "ConsumerHulled",
+    "ConsumerChaining",
+    "ConsumerPurgings",
+    "ConsumerUnzip",
+    "ConsumerSpin"
+   ],
+   "hasResults": true,
+   "listingIds": [
+    28755685,
+    28737210,
+    28749095,
+    28749123,
+    28741365,
+    28731371,
+    28725181,
+    28724901,
+    28551772,
+    28687690,
+    28610360,
+    28720345,
+    28718726,
+    28696844,
+    28650519,
+    28630189,
+    28628595,
+    28486975,
+    28505889,
+    28558100
+   ]
+  },
+  "sortByModel": {
+   "sortOrder": [
+    {
+     "value": 0,
+     "text": "Default"
+    },
+    {
+     "value": 1,
+     "text": "Price low to high"
+    },
+    {
+     "value": 2,
+     "text": "Price high to low"
+    },
+    {
+     "value": 3,
+     "text": "Most recent ads"
+    },
+    {
+     "value": 5,
+     "text": "Mileage low to high"
+    },
+    {
+     "value": 6,
+     "text": "Mileage high to low"
+    }
+   ]
+  },
+  "searchPager": {
+   "totalCount": 29,
+   "pageSize": 20,
+   "currentPage": 1,
+   "startIndex": 1,
+   "endIndex": 21,
+   "pagerLinks": [
+    {
+     "pageNumber": 1,
+     "isCurrent": true,
+     "showEllipses": false,
+     "noFollow": false
+    },
+    {
+     "pageNumber": 2,
+     "isCurrent": false,
+     "showEllipses": false,
+     "noFollow": true
+    }
+   ],
+   "hasPreviousPage": false,
+   "hasNextPage": true,
+   "pages": [
+    1,
+    2
+   ],
+   "totalPages": 2,
+   "hasPages": true,
+   "lastPage": 2
+  },
+  "controls": {
+   "totalCount": 29,
+   "categories": [
+    {
+     "channel": 4,
+     "iconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-attachments.svg?z=7b0c4e",
+     "activeIconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-attachments-active.svg?z=7b0c4e",
+     "count": 339,
+     "isChild": false,
+     "value": 7,
+     "text": "Attachments"
+    },
+    {
+     "channel": 2,
+     "iconUrl": "/Common/Content/Images/Icons/Channels/channel-bikes.svg?z=7b0c4e",
+     "activeIconUrl": "/Common/Content/Images/Icons/Channels/channel-bikes-active.svg?z=7b0c4e",
+     "count": 4959,
+     "isChild": false,
+     "value": 2,
+     "text": "Bikes"
+    },
+    {
+     "channel": 3,
+     "iconUrl": "/Common/Content/Images/Icons/Channels/channel-leisure-grey.svg?z=7b0c4e",
+     "activeIconUrl": "/Common/Content/Images/Icons/Channels/channel-leisure-active.svg?z=7b0c4e",
+     "count": 556,
+     "isChild": false,
+     "value": 3,
+     "text": "Boats"
+    },
+    {
+     "channel": 4,
+     "iconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-buses.svg?z=7b0c4e",
+     "activeIconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-buses-active.svg?z=7b0c4e",
+     "count": 226,
+     "isChild": false,
+     "value": 15,
+     "text": "Buses"
+    },
+    {
+     "channel": 3,
+     "iconUrl": "/Common/Content/Images/Icons/Channels/channel-leisure-caravans.svg?z=7b0c4e",
+     "activeIconUrl": "/Common/Content/Images/Icons/Channels/channel-leisure-caravans-active.svg?z=7b0c4e",
+     "count": 108,
+     "isChild": false,
+     "value": 4,
+     "text": "Caravans"
+    },
+    {
+     "channel": 1,
+     "iconUrl": "/Common/Content/Images/Icons/Channels/channel-cars.svg?z=7b0c4e",
+     "activeIconUrl": "/Common/Content/Images/Icons/Channels/channel-cars-active.svg?z=7b0c4e",
+     "count": 97133,
+     "isChild": false,
+     "value": 1,
+     "text": "Cars"
+    },
+    {
+     "channel": 4,
+     "iconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-cranes.svg?z=7b0c4e",
+     "activeIconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-cranes-active.svg?z=7b0c4e",
+     "count": 68,
+     "isChild": false,
+     "value": 14,
+     "text": "Cranes"
+    },
+    {
+     "channel": 4,
+     "iconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-dozers.svg?z=7b0c4e",
+     "activeIconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-dozers-active.svg?z=7b0c4e",
+     "count": 109,
+     "isChild": false,
+     "value": 13,
+     "text": "Dozers"
+    },
+    {
+     "channel": 4,
+     "iconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-excavators.svg?z=7b0c4e",
+     "activeIconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-excavators-active.svg?z=7b0c4e",
+     "count": 191,
+     "isChild": false,
+     "value": 9,
+     "text": "Excavators"
+    },
+    {
+     "channel": 4,
+     "iconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-forklifts.svg?z=7b0c4e",
+     "activeIconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-forklifts-active.svg?z=7b0c4e",
+     "count": 285,
+     "isChild": false,
+     "value": 18,
+     "text": "Forklifts"
+    },
+    {
+     "channel": 4,
+     "iconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-graders.svg?z=7b0c4e",
+     "activeIconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-graders-active.svg?z=7b0c4e",
+     "count": 104,
+     "isChild": false,
+     "value": 11,
+     "text": "Graders"
+    },
+    {
+     "channel": 4,
+     "iconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-loaders.svg?z=7b0c4e",
+     "activeIconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-loaders-active.svg?z=7b0c4e",
+     "count": 340,
+     "isChild": false,
+     "value": 8,
+     "text": "Loaders"
+    },
+    {
+     "channel": 4,
+     "iconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-rollers.svg?z=7b0c4e",
+     "activeIconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-rollers-active.svg?z=7b0c4e",
+     "count": 132,
+     "isChild": false,
+     "value": 12,
+     "text": "Rollers"
+    },
+    {
+     "channel": 4,
+     "iconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-tractors.svg?z=7b0c4e",
+     "activeIconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-tractors-active.svg?z=7b0c4e",
+     "count": 115,
+     "isChild": false,
+     "value": 5,
+     "text": "Tractors"
+    },
+    {
+     "channel": 4,
+     "iconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-trailers.svg?z=7b0c4e",
+     "activeIconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-trailers-active.svg?z=7b0c4e",
+     "count": 1109,
+     "isChild": false,
+     "value": 6,
+     "text": "Trailers"
+    },
+    {
+     "channel": 4,
+     "iconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-trucks.svg?z=7b0c4e",
+     "activeIconUrl": "/Common/Content/Images/Icons/Channels/channel-commercial-trucks-active.svg?z=7b0c4e",
+     "count": 5171,
+     "isChild": false,
+     "value": 10,
+     "text": "Trucks"
+    }
+   ],
+   "categoriesFilteredForDealer": [
+    {
+     "channel": 1,
+     "iconUrl": "/Common/Content/Images/Icons/Channels/channel-cars.svg?z=7b0c4e",
+     "activeIconUrl": "/Common/Content/Images/Icons/Channels/channel-cars-active.svg?z=7b0c4e",
+     "count": 29,
+     "isChild": false,
+     "value": 1,
+     "text": "Cars"
+    }
+   ],
+   "subCategories": [],
+   "minPrices": [
+    {
+     "value": 50001,
+     "text": "R50 001"
+    },
+    {
+     "value": 100001,
+     "text": "R100 001"
+    },
+    {
+     "value": 150001,
+     "text": "R150 001"
+    },
+    {
+     "value": 200001,
+     "text": "R200 001"
+    },
+    {
+     "value": 250001,
+     "text": "R250 001"
+    },
+    {
+     "value": 300001,
+     "text": "R300 001"
+    },
+    {
+     "value": 350001,
+     "text": "R350 001"
+    },
+    {
+     "value": 400001,
+     "text": "R400 001"
+    },
+    {
+     "value": 450001,
+     "text": "R450 001"
+    },
+    {
+     "value": 500001,
+     "text": "R500 001"
+    },
+    {
+     "value": 550001,
+     "text": "R550 001"
+    },
+    {
+     "value": 600001,
+     "text": "R600 001"
+    },
+    {
+     "value": 650001,
+     "text": "R650 001"
+    },
+    {
+     "value": 700001,
+     "text": "R700 001"
+    },
+    {
+     "value": 750001,
+     "text": "R750 001"
+    },
+    {
+     "value": 800001,
+     "text": "R800 001"
+    },
+    {
+     "value": 850001,
+     "text": "R850 001"
+    },
+    {
+     "value": 900001,
+     "text": "R900 001"
+    },
+    {
+     "value": 950001,
+     "text": "R950 001"
+    },
+    {
+     "value": 1000001,
+     "text": "R1 000 001"
+    },
+    {
+     "value": 1250001,
+     "text": "R1 250 001"
+    },
+    {
+     "value": 1500001,
+     "text": "R1 500 001"
+    },
+    {
+     "value": 1750001,
+     "text": "R1 750 001"
+    },
+    {
+     "value": 2000001,
+     "text": "R2 000 001"
+    }
+   ],
+   "maxPrices": [
+    {
+     "value": 50000,
+     "text": "R50 000"
+    },
+    {
+     "value": 100000,
+     "text": "R100 000"
+    },
+    {
+     "value": 150000,
+     "text": "R150 000"
+    },
+    {
+     "value": 200000,
+     "text": "R200 000"
+    },
+    {
+     "value": 250000,
+     "text": "R250 000"
+    },
+    {
+     "value": 300000,
+     "text": "R300 000"
+    },
+    {
+     "value": 350000,
+     "text": "R350 000"
+    },
+    {
+     "value": 400000,
+     "text": "R400 000"
+    },
+    {
+     "value": 450000,
+     "text": "R450 000"
+    },
+    {
+     "value": 500000,
+     "text": "R500 000"
+    },
+    {
+     "value": 550000,
+     "text": "R550 000"
+    },
+    {
+     "value": 600000,
+     "text": "R600 000"
+    },
+    {
+     "value": 650000,
+     "text": "R650 000"
+    },
+    {
+     "value": 700000,
+     "text": "R700 000"
+    },
+    {
+     "value": 750000,
+     "text": "R750 000"
+    },
+    {
+     "value": 800000,
+     "text": "R800 000"
+    },
+    {
+     "value": 850000,
+     "text": "R850 000"
+    },
+    {
+     "value": 900000,
+     "text": "R900 000"
+    },
+    {
+     "value": 950000,
+     "text": "R950 000"
+    },
+    {
+     "value": 1000000,
+     "text": "R1 000 000"
+    },
+    {
+     "value": 1250000,
+     "text": "R1 250 000"
+    },
+    {
+     "value": 1500000,
+     "text": "R1 500 000"
+    },
+    {
+     "value": 1750000,
+     "text": "R1 750 000"
+    },
+    {
+     "value": 2000000,
+     "text": "R2 000 000"
+    }
+   ],
+   "bodyTypes": [
+    {
+     "imageUrl": "/Common/Content/Images/Icons/BodyTypes/Cars/cabriolet.svg?z=7b0c4e",
+     "count": 6,
+     "isChild": false,
+     "value": 1,
+     "text": "Cabriolet"
+    },
+    {
+     "imageUrl": "/Common/Content/Images/Icons/BodyTypes/Cars/coupe.svg?z=7b0c4e",
+     "count": 11,
+     "isChild": false,
+     "value": 2,
+     "text": "Coupé"
+    },
+    {
+     "imageUrl": "/Common/Content/Images/Icons/BodyTypes/Cars/crew-bus.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 3,
+     "text": "Crew bus"
+    },
+    {
+     "imageUrl": "/Common/Content/Images/Icons/BodyTypes/Cars/double-cab.svg?z=7b0c4e",
+     "count": 1,
+     "isChild": false,
+     "value": 4,
+     "text": "Double cab"
+    },
+    {
+     "imageUrl": "/Common/Content/Images/Icons/BodyTypes/Cars/extended-cab.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 5,
+     "text": "Extended cab"
+    },
+    {
+     "imageUrl": "/Common/Content/Images/Icons/BodyTypes/Cars/fastback.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 6,
+     "text": "Fastback"
+    },
+    {
+     "imageUrl": "/Common/Content/Images/Icons/BodyTypes/Cars/hatchback.svg?z=7b0c4e",
+     "count": 1,
+     "isChild": false,
+     "value": 7,
+     "text": "Hatchback"
+    },
+    {
+     "imageUrl": "/Common/Content/Images/Icons/BodyTypes/Cars/king-cab.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 8,
+     "text": "Kingcab"
+    },
+    {
+     "imageUrl": "/Common/Content/Images/Icons/BodyTypes/Cars/lcv.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 9,
+     "text": "LCV"
+    },
+    {
+     "imageUrl": "/Common/Content/Images/Icons/BodyTypes/Cars/minibus.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 10,
+     "text": "Minibus"
+    },
+    {
+     "imageUrl": "/Common/Content/Images/Icons/BodyTypes/Cars/mpv.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 11,
+     "text": "MPV"
+    },
+    {
+     "imageUrl": "/Common/Content/Images/Icons/BodyTypes/Cars/panel-van.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 12,
+     "text": "Panel van"
+    },
+    {
+     "imageUrl": "/Common/Content/Images/Icons/BodyTypes/Cars/sedan.svg?z=7b0c4e",
+     "count": 2,
+     "isChild": false,
+     "value": 13,
+     "text": "Sedan"
+    },
+    {
+     "imageUrl": "/Common/Content/Images/Icons/BodyTypes/Cars/single-cab.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 14,
+     "text": "Single cab"
+    },
+    {
+     "imageUrl": "/Common/Content/Images/Icons/BodyTypes/Cars/sportback.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 15,
+     "text": "Sportback"
+    },
+    {
+     "imageUrl": "/Common/Content/Images/Icons/BodyTypes/Cars/station-wagon.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 16,
+     "text": "Station wagon"
+    },
+    {
+     "imageUrl": "/Common/Content/Images/Icons/BodyTypes/Cars/super-cab.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 17,
+     "text": "Supercab"
+    },
+    {
+     "imageUrl": "/Common/Content/Images/Icons/BodyTypes/Cars/suv.svg?z=7b0c4e",
+     "count": 8,
+     "isChild": false,
+     "value": 18,
+     "text": "SUV"
+    }
+   ],
+   "minYears": [
+    {
+     "value": 2026,
+     "text": "2026"
+    },
+    {
+     "value": 2025,
+     "text": "2025"
+    },
+    {
+     "value": 2024,
+     "text": "2024"
+    },
+    {
+     "value": 2023,
+     "text": "2023"
+    },
+    {
+     "value": 2022,
+     "text": "2022"
+    },
+    {
+     "value": 2021,
+     "text": "2021"
+    },
+    {
+     "value": 2020,
+     "text": "2020"
+    },
+    {
+     "value": 2019,
+     "text": "2019"
+    },
+    {
+     "value": 2018,
+     "text": "2018"
+    },
+    {
+     "value": 2017,
+     "text": "2017"
+    },
+    {
+     "value": 2016,
+     "text": "2016"
+    },
+    {
+     "value": 2015,
+     "text": "2015"
+    },
+    {
+     "value": 2014,
+     "text": "2014"
+    },
+    {
+     "value": 2013,
+     "text": "2013"
+    },
+    {
+     "value": 2012,
+     "text": "2012"
+    },
+    {
+     "value": 2011,
+     "text": "2011"
+    },
+    {
+     "value": 2010,
+     "text": "2010"
+    },
+    {
+     "value": 2009,
+     "text": "2009"
+    },
+    {
+     "value": 2008,
+     "text": "2008"
+    },
+    {
+     "value": 2007,
+     "text": "2007"
+    },
+    {
+     "value": 2006,
+     "text": "2006"
+    },
+    {
+     "value": 2005,
+     "text": "2005"
+    },
+    {
+     "value": 2004,
+     "text": "2004"
+    },
+    {
+     "value": 2003,
+     "text": "2003"
+    },
+    {
+     "value": 2002,
+     "text": "2002"
+    },
+    {
+     "value": 2001,
+     "text": "2001"
+    },
+    {
+     "value": 2000,
+     "text": "2000"
+    },
+    {
+     "value": 1999,
+     "text": "1999"
+    },
+    {
+     "value": 1998,
+     "text": "1998"
+    },
+    {
+     "value": 1997,
+     "text": "1997"
+    },
+    {
+     "value": 1996,
+     "text": "1996"
+    },
+    {
+     "value": 1995,
+     "text": "1995"
+    },
+    {
+     "value": 1994,
+     "text": "1994"
+    },
+    {
+     "value": 1993,
+     "text": "1993"
+    },
+    {
+     "value": 1992,
+     "text": "1992"
+    },
+    {
+     "value": 1991,
+     "text": "1991"
+    },
+    {
+     "value": 1990,
+     "text": "1990"
+    }
+   ],
+   "maxYears": [
+    {
+     "value": 2026,
+     "text": "2026"
+    },
+    {
+     "value": 2025,
+     "text": "2025"
+    },
+    {
+     "value": 2024,
+     "text": "2024"
+    },
+    {
+     "value": 2023,
+     "text": "2023"
+    },
+    {
+     "value": 2022,
+     "text": "2022"
+    },
+    {
+     "value": 2021,
+     "text": "2021"
+    },
+    {
+     "value": 2020,
+     "text": "2020"
+    },
+    {
+     "value": 2019,
+     "text": "2019"
+    },
+    {
+     "value": 2018,
+     "text": "2018"
+    },
+    {
+     "value": 2017,
+     "text": "2017"
+    },
+    {
+     "value": 2016,
+     "text": "2016"
+    },
+    {
+     "value": 2015,
+     "text": "2015"
+    },
+    {
+     "value": 2014,
+     "text": "2014"
+    },
+    {
+     "value": 2013,
+     "text": "2013"
+    },
+    {
+     "value": 2012,
+     "text": "2012"
+    },
+    {
+     "value": 2011,
+     "text": "2011"
+    },
+    {
+     "value": 2010,
+     "text": "2010"
+    },
+    {
+     "value": 2009,
+     "text": "2009"
+    },
+    {
+     "value": 2008,
+     "text": "2008"
+    },
+    {
+     "value": 2007,
+     "text": "2007"
+    },
+    {
+     "value": 2006,
+     "text": "2006"
+    },
+    {
+     "value": 2005,
+     "text": "2005"
+    },
+    {
+     "value": 2004,
+     "text": "2004"
+    },
+    {
+     "value": 2003,
+     "text": "2003"
+    },
+    {
+     "value": 2002,
+     "text": "2002"
+    },
+    {
+     "value": 2001,
+     "text": "2001"
+    },
+    {
+     "value": 2000,
+     "text": "2000"
+    },
+    {
+     "value": 1999,
+     "text": "1999"
+    },
+    {
+     "value": 1998,
+     "text": "1998"
+    },
+    {
+     "value": 1997,
+     "text": "1997"
+    },
+    {
+     "value": 1996,
+     "text": "1996"
+    },
+    {
+     "value": 1995,
+     "text": "1995"
+    },
+    {
+     "value": 1994,
+     "text": "1994"
+    },
+    {
+     "value": 1993,
+     "text": "1993"
+    },
+    {
+     "value": 1992,
+     "text": "1992"
+    },
+    {
+     "value": 1991,
+     "text": "1991"
+    },
+    {
+     "value": 1990,
+     "text": "1990"
+    }
+   ],
+   "mileagesFrom": [
+    {
+     "count": 29,
+     "isChild": false,
+     "value": 51,
+     "text": "51 km"
+    },
+    {
+     "count": 29,
+     "isChild": false,
+     "value": 1501,
+     "text": "1 501 km"
+    },
+    {
+     "count": 28,
+     "isChild": false,
+     "value": 5001,
+     "text": "5 001 km"
+    },
+    {
+     "count": 27,
+     "isChild": false,
+     "value": 10001,
+     "text": "10 001 km"
+    },
+    {
+     "count": 26,
+     "isChild": false,
+     "value": 15001,
+     "text": "15 001 km"
+    },
+    {
+     "count": 25,
+     "isChild": false,
+     "value": 20001,
+     "text": "20 001 km"
+    },
+    {
+     "count": 24,
+     "isChild": false,
+     "value": 25001,
+     "text": "25 001 km"
+    },
+    {
+     "count": 22,
+     "isChild": false,
+     "value": 30001,
+     "text": "30 001 km"
+    },
+    {
+     "count": 20,
+     "isChild": false,
+     "value": 40001,
+     "text": "40 001 km"
+    },
+    {
+     "count": 17,
+     "isChild": false,
+     "value": 50001,
+     "text": "50 001 km"
+    },
+    {
+     "count": 14,
+     "isChild": false,
+     "value": 60001,
+     "text": "60 001 km"
+    },
+    {
+     "count": 12,
+     "isChild": false,
+     "value": 70001,
+     "text": "70 001 km"
+    },
+    {
+     "count": 10,
+     "isChild": false,
+     "value": 80001,
+     "text": "80 001 km"
+    },
+    {
+     "count": 6,
+     "isChild": false,
+     "value": 90001,
+     "text": "90 001 km"
+    },
+    {
+     "count": 5,
+     "isChild": false,
+     "value": 100001,
+     "text": "100 001 km"
+    },
+    {
+     "count": 2,
+     "isChild": false,
+     "value": 120001,
+     "text": "120 001 km"
+    },
+    {
+     "count": 1,
+     "isChild": false,
+     "value": 150001,
+     "text": "150 001 km"
+    }
+   ],
+   "mileagesTo": [
+    {
+     "count": 0,
+     "isChild": false,
+     "value": 50,
+     "text": "50 km"
+    },
+    {
+     "count": 0,
+     "isChild": false,
+     "value": 1500,
+     "text": "1 500 km"
+    },
+    {
+     "count": 1,
+     "isChild": false,
+     "value": 5000,
+     "text": "5 000 km"
+    },
+    {
+     "count": 2,
+     "isChild": false,
+     "value": 10000,
+     "text": "10 000 km"
+    },
+    {
+     "count": 3,
+     "isChild": false,
+     "value": 15000,
+     "text": "15 000 km"
+    },
+    {
+     "count": 4,
+     "isChild": false,
+     "value": 20000,
+     "text": "20 000 km"
+    },
+    {
+     "count": 5,
+     "isChild": false,
+     "value": 25000,
+     "text": "25 000 km"
+    },
+    {
+     "count": 7,
+     "isChild": false,
+     "value": 30000,
+     "text": "30 000 km"
+    },
+    {
+     "count": 9,
+     "isChild": false,
+     "value": 40000,
+     "text": "40 000 km"
+    },
+    {
+     "count": 12,
+     "isChild": false,
+     "value": 50000,
+     "text": "50 000 km"
+    },
+    {
+     "count": 15,
+     "isChild": false,
+     "value": 60000,
+     "text": "60 000 km"
+    },
+    {
+     "count": 17,
+     "isChild": false,
+     "value": 70000,
+     "text": "70 000 km"
+    },
+    {
+     "count": 19,
+     "isChild": false,
+     "value": 80000,
+     "text": "80 000 km"
+    },
+    {
+     "count": 23,
+     "isChild": false,
+     "value": 90000,
+     "text": "90 000 km"
+    },
+    {
+     "count": 24,
+     "isChild": false,
+     "value": 100000,
+     "text": "100 000 km"
+    },
+    {
+     "count": 27,
+     "isChild": false,
+     "value": 120000,
+     "text": "120 000 km"
+    },
+    {
+     "count": 28,
+     "isChild": false,
+     "value": 150000,
+     "text": "150 000 km"
+    }
+   ],
+   "transmissionTypes": [
+    {
+     "iconUrl": "/Common/Content/Images/Icons/Tile/transmission-automatic.svg?z=7b0c4e",
+     "count": 24,
+     "isChild": false,
+     "value": 2,
+     "text": "Automatic"
+    },
+    {
+     "iconUrl": "/Common/Content/Images/Icons/Tile/transmission-manual.svg?z=7b0c4e",
+     "count": 5,
+     "isChild": false,
+     "value": 1,
+     "text": "Manual"
+    }
+   ],
+   "colours": [
+    {
+     "hexCode": "#F5F5DC",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Beige.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 1,
+     "text": "Beige"
+    },
+    {
+     "hexCode": "#000000",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Black.svg?z=7b0c4e",
+     "count": 3,
+     "isChild": false,
+     "value": 2,
+     "text": "Black"
+    },
+    {
+     "hexCode": "#0000FF",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Blue.svg?z=7b0c4e",
+     "count": 2,
+     "isChild": false,
+     "value": 3,
+     "text": "Blue"
+    },
+    {
+     "hexCode": "#CD7F32",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Bronze.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 4,
+     "text": "Bronze"
+    },
+    {
+     "hexCode": "#A52A2A",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Brown.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 5,
+     "text": "Brown"
+    },
+    {
+     "hexCode": "#800020",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Burgundy.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 6,
+     "text": "Burgundy"
+    },
+    {
+     "hexCode": "#FFD700",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Gold.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 7,
+     "text": "Gold"
+    },
+    {
+     "hexCode": "#00FF00",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Green.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 8,
+     "text": "Green"
+    },
+    {
+     "hexCode": "#808080",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Grey.svg?z=7b0c4e",
+     "count": 9,
+     "isChild": false,
+     "value": 9,
+     "text": "Grey"
+    },
+    {
+     "hexCode": "#4B0082",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Indigo.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 10,
+     "text": "Indigo"
+    },
+    {
+     "hexCode": "#FF00FF",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Magenta.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 11,
+     "text": "Magenta"
+    },
+    {
+     "hexCode": "#800000",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Maroon.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 12,
+     "text": "Maroon"
+    },
+    {
+     "hexCode": "#000080",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Navy.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 13,
+     "text": "Navy"
+    },
+    {
+     "hexCode": "#FFA500",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Orange.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 14,
+     "text": "Orange"
+    },
+    {
+     "hexCode": "#FFC0CB",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Pink.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 15,
+     "text": "Pink"
+    },
+    {
+     "hexCode": "#800080",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Purple.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 16,
+     "text": "Purple"
+    },
+    {
+     "hexCode": "#FF0000",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Red.svg?z=7b0c4e",
+     "count": 7,
+     "isChild": false,
+     "value": 17,
+     "text": "Red"
+    },
+    {
+     "hexCode": "#C0C0C0",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Silver.svg?z=7b0c4e",
+     "count": 1,
+     "isChild": false,
+     "value": 18,
+     "text": "Silver"
+    },
+    {
+     "hexCode": "#40E0D0",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Turquoise.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 19,
+     "text": "Turquoise"
+    },
+    {
+     "hexCode": "#FFFFFF",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/White.svg?z=7b0c4e",
+     "count": 7,
+     "isChild": false,
+     "value": 20,
+     "text": "White"
+    },
+    {
+     "hexCode": "#FFFF00",
+     "iconUrl": "/Common/Content/Images/Icons/Colours/Yellow.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 21,
+     "text": "Yellow"
+    }
+   ],
+   "transmissionDriveTypes": [
+    {
+     "iconUrl": "/Common/Content/Images/Icons/Tile/transmission_type.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 1,
+     "text": "4x2"
+    },
+    {
+     "iconUrl": "/Common/Content/Images/Icons/Tile/transmission_type.svg?z=7b0c4e",
+     "count": 2,
+     "isChild": false,
+     "value": 2,
+     "text": "4x4"
+    },
+    {
+     "iconUrl": "/Common/Content/Images/Icons/Tile/transmission_type.svg?z=7b0c4e",
+     "count": 15,
+     "isChild": false,
+     "value": 3,
+     "text": "All Wheel Drive"
+    },
+    {
+     "iconUrl": "/Common/Content/Images/Icons/Tile/transmission_type.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 6,
+     "text": "Four Wheel Drive"
+    },
+    {
+     "iconUrl": "/Common/Content/Images/Icons/Tile/transmission_type.svg?z=7b0c4e",
+     "count": 1,
+     "isChild": false,
+     "value": 4,
+     "text": "Front Wheel Drive"
+    },
+    {
+     "iconUrl": "/Common/Content/Images/Icons/Tile/transmission_type.svg?z=7b0c4e",
+     "count": 11,
+     "isChild": false,
+     "value": 5,
+     "text": "Rear Wheel Drive"
+    }
+   ],
+   "enginePowersFrom": [],
+   "enginePowersTo": [],
+   "engineCapacitiesFrom": [
+    {
+     "count": 29,
+     "isChild": false,
+     "value": 1001,
+     "text": "1,0 l"
+    },
+    {
+     "count": 29,
+     "isChild": false,
+     "value": 1101,
+     "text": "1,1 l"
+    },
+    {
+     "count": 29,
+     "isChild": false,
+     "value": 1201,
+     "text": "1,2 l"
+    },
+    {
+     "count": 29,
+     "isChild": false,
+     "value": 1301,
+     "text": "1,3 l"
+    },
+    {
+     "count": 29,
+     "isChild": false,
+     "value": 1401,
+     "text": "1,4 l"
+    },
+    {
+     "count": 28,
+     "isChild": false,
+     "value": 1501,
+     "text": "1,5 l"
+    },
+    {
+     "count": 28,
+     "isChild": false,
+     "value": 1601,
+     "text": "1,6 l"
+    },
+    {
+     "count": 28,
+     "isChild": false,
+     "value": 1701,
+     "text": "1,7 l"
+    },
+    {
+     "count": 27,
+     "isChild": false,
+     "value": 1801,
+     "text": "1,8 l"
+    },
+    {
+     "count": 27,
+     "isChild": false,
+     "value": 1901,
+     "text": "1,9 l"
+    },
+    {
+     "count": 25,
+     "isChild": false,
+     "value": 2001,
+     "text": "2,0 l"
+    },
+    {
+     "count": 25,
+     "isChild": false,
+     "value": 2101,
+     "text": "2,1 l"
+    },
+    {
+     "count": 21,
+     "isChild": false,
+     "value": 2601,
+     "text": "2,6 l"
+    },
+    {
+     "count": 15,
+     "isChild": false,
+     "value": 3101,
+     "text": "3,1 l"
+    },
+    {
+     "count": 3,
+     "isChild": false,
+     "value": 5101,
+     "text": "5,1 l"
+    }
+   ],
+   "engineCapacitiesTo": [],
+   "sellerTypes": [
+    {
+     "count": 0,
+     "isChild": false,
+     "value": 4,
+     "text": "Private - Business"
+    },
+    {
+     "count": 0,
+     "isChild": false,
+     "value": 2,
+     "text": "Private"
+    },
+    {
+     "count": 29,
+     "isChild": false,
+     "value": 1,
+     "text": "Trade"
+    },
+    {
+     "count": 0,
+     "isChild": false,
+     "value": 3,
+     "text": "Verified Private Vehicle"
+    }
+   ],
+   "trailerAxles": [],
+   "hoursInOperationFrom": [],
+   "hoursInOperationTo": [],
+   "fuelTypes": [
+    {
+     "iconUrl": "/Common/Content/Images/Icons/FuelTypes/diesel-solid.svg?z=7b0c4e",
+     "iconOutlineUrl": "/Common/Content/Images/Icons/FuelTypes/diesel.svg?z=7b0c4e",
+     "count": 3,
+     "isChild": false,
+     "value": 2,
+     "text": "Diesel"
+    },
+    {
+     "iconUrl": "/Common/Content/Images/Icons/FuelTypes/electric-solid.svg?z=7b0c4e",
+     "iconOutlineUrl": "/Common/Content/Images/Icons/FuelTypes/electric.svg?z=7b0c4e",
+     "count": 0,
+     "isChild": false,
+     "value": 5,
+     "text": "Electric"
+    },
+    {
+     "iconUrl": "/Common/Content/Images/Icons/FuelTypes/hybrid-solid.svg?z=7b0c4e",
+     "iconOutlineUrl": "/Common/Content/Images/Icons/FuelTypes/hybrid.svg?z=7b0c4e",
+     "count": 3,
+     "isChild": false,
+     "value": 4,
+     "text": "Hybrid"
+    },
+    {
+     "iconUrl": "/Common/Content/Images/Icons/FuelTypes/petrol-solid.svg?z=7b0c4e",
+     "iconOutlineUrl": "/Common/Content/Images/Icons/FuelTypes/petrol.svg?z=7b0c4e",
+     "count": 23,
+     "isChild": false,
+     "value": 1,
+     "text": "Petrol"
+    }
+   ],
+   "vehicleConditions": [
+    {
+     "count": 0,
+     "isChild": false,
+     "value": 1,
+     "text": "New"
+    },
+    {
+     "count": 29,
+     "isChild": false,
+     "value": 2,
+     "text": "Used"
+    },
+    {
+     "count": 0,
+     "isChild": true,
+     "value": 3,
+     "text": "Demo"
+    },
+    {
+     "count": 0,
+     "isChild": true,
+     "value": 4,
+     "text": "Certified Used"
+    }
+   ],
+   "makesModels": [
+    {
+     "make": "Alfa Romeo",
+     "count": 1,
+     "children": [
+      {
+       "make": "Alfa Romeo",
+       "model": "Giulietta",
+       "count": 1,
+       "children": []
+      }
+     ]
+    },
+    {
+     "make": "Audi",
+     "count": 3,
+     "children": [
+      {
+       "make": "Audi",
+       "model": "R8",
+       "count": 1,
+       "children": []
+      },
+      {
+       "make": "Audi",
+       "model": "RS4",
+       "count": 1,
+       "children": []
+      },
+      {
+       "make": "Audi",
+       "model": "TT",
+       "count": 1,
+       "children": []
+      }
+     ]
+    },
+    {
+     "make": "BMW",
+     "count": 5,
+     "children": [
+      {
+       "make": "BMW",
+       "model": "2 Series",
+       "count": 1,
+       "children": []
+      },
+      {
+       "make": "BMW",
+       "model": "3 Series",
+       "count": 1,
+       "children": []
+      },
+      {
+       "make": "BMW",
+       "model": "X6",
+       "count": 2,
+       "children": []
+      },
+      {
+       "make": "BMW",
+       "model": "i8",
+       "count": 1,
+       "children": []
+      }
+     ]
+    },
+    {
+     "make": "Bentley",
+     "count": 1,
+     "children": [
+      {
+       "make": "Bentley",
+       "model": "Continental",
+       "count": 1,
+       "children": []
+      }
+     ]
+    },
+    {
+     "make": "Ferrari",
+     "count": 7,
+     "children": [
+      {
+       "make": "Ferrari",
+       "model": "296",
+       "count": 1,
+       "children": []
+      },
+      {
+       "make": "Ferrari",
+       "model": "550",
+       "count": 1,
+       "children": []
+      },
+      {
+       "make": "Ferrari",
+       "model": "California",
+       "count": 2,
+       "children": []
+      },
+      {
+       "make": "Ferrari",
+       "model": "Dino",
+       "count": 1,
+       "children": []
+      },
+      {
+       "make": "Ferrari",
+       "model": "GTC4Lusso",
+       "count": 1,
+       "children": []
+      },
+      {
+       "make": "Ferrari",
+       "model": "SF90",
+       "count": 1,
+       "children": []
+      }
+     ]
+    },
+    {
+     "make": "Land Rover",
+     "count": 3,
+     "children": [
+      {
+       "make": "Land Rover",
+       "model": "Defender",
+       "count": 2,
+       "children": []
+      },
+      {
+       "make": "Land Rover",
+       "model": "Range Rover Sport",
+       "count": 1,
+       "children": []
+      }
+     ]
+    },
+    {
+     "make": "Lotus",
+     "count": 1,
+     "children": [
+      {
+       "make": "Lotus",
+       "model": "Esprit",
+       "count": 1,
+       "children": []
+      }
+     ]
+    },
+    {
+     "make": "McLaren",
+     "count": 1,
+     "children": [
+      {
+       "make": "McLaren",
+       "model": "600LT",
+       "count": 1,
+       "children": []
+      }
+     ]
+    },
+    {
+     "make": "Mercedes-AMG",
+     "count": 1,
+     "children": [
+      {
+       "make": "Mercedes-AMG",
+       "model": "C-Class",
+       "count": 1,
+       "children": []
+      }
+     ]
+    },
+    {
+     "make": "Mercedes-Benz",
+     "count": 1,
+     "children": [
+      {
+       "make": "Mercedes-Benz",
+       "model": "GLE",
+       "count": 1,
+       "children": []
+      }
+     ]
+    },
+    {
+     "make": "Porsche",
+     "count": 5,
+     "children": [
+      {
+       "make": "Porsche",
+       "model": "718 Cayman",
+       "count": 1,
+       "children": []
+      },
+      {
+       "make": "Porsche",
+       "model": "911",
+       "count": 1,
+       "children": []
+      },
+      {
+       "make": "Porsche",
+       "model": "Cayenne",
+       "count": 2,
+       "children": []
+      },
+      {
+       "make": "Porsche",
+       "model": "Macan",
+       "count": 1,
+       "children": []
+      }
+     ]
+    }
+   ],
+   "vehicleSpecialTypes": [
+    {
+     "count": 0,
+     "isChild": false,
+     "value": 1,
+     "text": "Used Car Special"
+    }
+   ],
+   "priceRatings": [
+    {
+     "count": 0,
+     "isChild": false,
+     "value": 1,
+     "text": "Low Price"
+    },
+    {
+     "count": 2,
+     "isChild": false,
+     "value": 2,
+     "text": "Great Price"
+    },
+    {
+     "count": 7,
+     "isChild": false,
+     "value": 3,
+     "text": "Fair Price"
+    },
+    {
+     "count": 1,
+     "isChild": false,
+     "value": 4,
+     "text": "High Price"
+    },
+    {
+     "count": 19,
+     "isChild": false,
+     "value": 5,
+     "text": "No Rating"
+    }
+   ],
+   "numberOfSeats": [
+    {
+     "count": 8,
+     "isChild": false,
+     "value": 2,
+     "text": "2"
+    },
+    {
+     "count": 0,
+     "isChild": false,
+     "value": 3,
+     "text": "3"
+    },
+    {
+     "count": 7,
+     "isChild": false,
+     "value": 4,
+     "text": "4"
+    },
+    {
+     "count": 10,
+     "isChild": false,
+     "value": 5,
+     "text": "5"
+    },
+    {
+     "count": 0,
+     "isChild": false,
+     "value": 7,
+     "text": "7"
+    },
+    {
+     "count": 0,
+     "isChild": false,
+     "value": 8,
+     "text": "8+"
+    }
+   ],
+   "popularFeatures": [
+    {
+     "count": 24,
+     "isChild": false,
+     "value": 28,
+     "text": "Air conditioning"
+    },
+    {
+     "count": 18,
+     "isChild": false,
+     "value": 41,
+     "text": "Bluetooth connectivity"
+    },
+    {
+     "count": 20,
+     "isChild": false,
+     "value": 39,
+     "text": "Cruise control"
+    },
+    {
+     "count": 4,
+     "isChild": false,
+     "value": 33,
+     "text": "Lane departure warning"
+    },
+    {
+     "count": 16,
+     "isChild": false,
+     "value": 38,
+     "text": "Navigation"
+    },
+    {
+     "count": 4,
+     "isChild": false,
+     "value": 53,
+     "text": "Sunroof"
+    },
+    {
+     "count": 16,
+     "isChild": false,
+     "value": 45,
+     "text": "USB port"
+    },
+    {
+     "count": 21,
+     "isChild": false,
+     "value": 66,
+     "text": "Xenon headlights"
+    }
+   ],
+   "monthlyPaymentInterestRates": [
+    {
+     "creditRating": 1,
+     "value": 7.5,
+     "text": "7,5 %"
+    },
+    {
+     "creditRating": 1,
+     "value": 7.75,
+     "text": "7,75 %"
+    },
+    {
+     "creditRating": 1,
+     "value": 8,
+     "text": "8,00 %"
+    },
+    {
+     "creditRating": 1,
+     "value": 8.25,
+     "text": "8,25 %"
+    },
+    {
+     "creditRating": 1,
+     "value": 8.5,
+     "text": "8,50 %"
+    },
+    {
+     "creditRating": 1,
+     "value": 8.75,
+     "text": "8,75 %"
+    },
+    {
+     "creditRating": 1,
+     "value": 9,
+     "text": "9,00 %"
+    },
+    {
+     "creditRating": 1,
+     "value": 9.25,
+     "text": "9,25 %"
+    },
+    {
+     "creditRating": 1,
+     "value": 9.5,
+     "text": "9,50 %"
+    },
+    {
+     "creditRating": 1,
+     "value": 9.75,
+     "text": "9,75 %"
+    },
+    {
+     "creditRating": 1,
+     "value": 10,
+     "text": "10,00 %"
+    },
+    {
+     "creditRating": 1,
+     "value": 10.25,
+     "text": "10,25 %"
+    },
+    {
+     "creditRating": 2,
+     "value": 10.5,
+     "text": "10,50 %"
+    },
+    {
+     "creditRating": 2,
+     "value": 10.75,
+     "text": "10,75 %"
+    },
+    {
+     "creditRating": 2,
+     "value": 11,
+     "text": "11,00 %"
+    },
+    {
+     "creditRating": 2,
+     "value": 11.25,
+     "text": "11,25 %"
+    },
+    {
+     "creditRating": 2,
+     "value": 11.5,
+     "text": "11,50 %"
+    },
+    {
+     "creditRating": 2,
+     "value": 11.75,
+     "text": "11,75 %"
+    },
+    {
+     "creditRating": 3,
+     "value": 12,
+     "text": "12,00 %"
+    },
+    {
+     "creditRating": 3,
+     "value": 12.25,
+     "text": "12,25 %"
+    },
+    {
+     "creditRating": 3,
+     "value": 12.5,
+     "text": "12,50 %"
+    },
+    {
+     "creditRating": 3,
+     "value": 12.75,
+     "text": "12,75 %"
+    },
+    {
+     "creditRating": 3,
+     "value": 13,
+     "text": "13,00 %"
+    },
+    {
+     "creditRating": 4,
+     "value": 13.25,
+     "text": "13,25 %"
+    },
+    {
+     "creditRating": 4,
+     "value": 13.5,
+     "text": "13,50 %"
+    },
+    {
+     "creditRating": 5,
+     "value": 13.75,
+     "text": "13,75 %"
+    },
+    {
+     "creditRating": 5,
+     "value": 14,
+     "text": "14,00 %"
+    },
+    {
+     "creditRating": 5,
+     "value": 14.25,
+     "text": "14,25 %"
+    },
+    {
+     "creditRating": 6,
+     "value": 14.5,
+     "text": "14,50 %"
+    },
+    {
+     "creditRating": 6,
+     "value": 14.75,
+     "text": "14,75 %"
+    },
+    {
+     "creditRating": 6,
+     "value": 15,
+     "text": "15,00 %"
+    },
+    {
+     "creditRating": 7,
+     "value": 15.25,
+     "text": "15,25 %"
+    },
+    {
+     "creditRating": 7,
+     "value": 15.5,
+     "text": "15,50 %"
+    },
+    {
+     "creditRating": 7,
+     "value": 15.75,
+     "text": "15,75 %"
+    },
+    {
+     "creditRating": 7,
+     "value": 16,
+     "text": "16,00 %"
+    },
+    {
+     "creditRating": 7,
+     "value": 16.25,
+     "text": "16,25 %"
+    }
+   ],
+   "monthlyPaymentTerms": [
+    {
+     "value": 24,
+     "text": "24 months"
+    },
+    {
+     "value": 36,
+     "text": "36 months"
+    },
+    {
+     "value": 48,
+     "text": "48 months"
+    },
+    {
+     "value": 54,
+     "text": "54 months"
+    },
+    {
+     "value": 60,
+     "text": "60 months"
+    },
+    {
+     "value": 72,
+     "text": "72 months"
+    },
+    {
+     "value": 84,
+     "text": "84 months"
+    }
+   ],
+   "locations": {
+    "locations": [
+     {
+      "location": {
+       "id": 9,
+       "name": "Western Cape",
+       "type": 1
+      },
+      "resultsCount": 29
+     },
+     {
+      "location": {
+       "id": 7,
+       "name": "Eastern Cape",
+       "type": 1
+      },
+      "resultsCount": 0
+     },
+     {
+      "location": {
+       "id": 3,
+       "name": "Free State",
+       "type": 1
+      },
+      "resultsCount": 0
+     },
+     {
+      "location": {
+       "id": 1,
+       "name": "Gauteng",
+       "type": 1
+      },
+      "resultsCount": 0
+     },
+     {
+      "location": {
+       "id": 2,
+       "name": "KwaZulu Natal",
+       "type": 1
+      },
+      "resultsCount": 0
+     },
+     {
+      "location": {
+       "id": 14,
+       "name": "Limpopo",
+       "type": 1
+      },
+      "resultsCount": 0
+     },
+     {
+      "location": {
+       "id": 5,
+       "name": "Mpumalanga",
+       "type": 1
+      },
+      "resultsCount": 0
+     },
+     {
+      "location": {
+       "id": 6,
+       "name": "North West",
+       "type": 1
+      },
+      "resultsCount": 0
+     },
+     {
+      "location": {
+       "id": 8,
+       "name": "Northern Cape",
+       "type": 1
+      },
+      "resultsCount": 0
+     }
+    ],
+    "totalCount": 29
+   },
+   "dealerRatings": [
+    {
+     "count": 29,
+     "isChild": false,
+     "value": 4,
+     "text": "4+"
+    },
+    {
+     "count": 29,
+     "isChild": false,
+     "value": 3,
+     "text": "3+"
+    },
+    {
+     "count": 29,
+     "isChild": false,
+     "value": 2,
+     "text": "2+"
+    },
+    {
+     "count": 29,
+     "isChild": false,
+     "value": 1,
+     "text": "1+"
+    }
+   ],
+   "numberOfOwners": [
+    {
+     "count": 5,
+     "isChild": false,
+     "value": 1,
+     "text": "1"
+    },
+    {
+     "count": 7,
+     "isChild": false,
+     "value": 2,
+     "text": "2"
+    },
+    {
+     "count": 0,
+     "isChild": false,
+     "value": 3,
+     "text": "3"
+    },
+    {
+     "count": 0,
+     "isChild": false,
+     "value": 4,
+     "text": "4+"
+    }
+   ],
+   "serviceHistory": [
+    {
+     "count": 29,
+     "isChild": false,
+     "value": 1,
+     "text": "Full Service History"
+    },
+    {
+     "count": 0,
+     "isChild": false,
+     "value": 6,
+     "text": "No Service History"
+    },
+    {
+     "count": 0,
+     "isChild": false,
+     "value": 5,
+     "text": "Partial Service History"
+    }
+   ]
+  },
+  "userHasGeolocation": false,
+  "googleAnalyticsV4": {
+   "trackingIdentifier": "G-DEQFGPCCKF",
+   "enhancedConversionsTagId": "AW-975859918",
+   "pageParameters": {
+    "ui_context_name": "Desktop",
+    "logged_in_user": "False",
+    "page": "dealer",
+    "template": "Dealer\\Dealer",
+    "content_group": "Dealer",
+    "dealer_id": "113036",
+    "dealer_name": "Lusso Auto",
+    "channel": "Cars",
+    "category": "Cars",
+    "sort_order": "Default",
+    "price_context": "Price",
+    "results_count": "29",
+    "page_number": "1"
+   },
+   "userProperties": {
+    "user_location": "Unknown",
+    "user_type": "anonymous user"
+   },
+   "logPageView": true,
+   "events": {}
+  },
+  "instantOfferStartUrl": "/sell-my-car",
+  "isNewCarDealer": false
+ },
+ "salesRepresentatives": [
+  {
+   "id": 11576,
+   "name": "Riccardo Pantolone",
+   "imageUrl": "https://img.autotrader.co.za/46743120/Fit140x182",
+   "enabledWhatsApp": true,
+   "displayPhoneNumber": true
+  },
+  {
+   "id": 11575,
+   "name": "Fay Sakir",
+   "imageUrl": "https://img.autotrader.co.za/46352222/Fit140x182",
+   "enabledWhatsApp": true,
+   "displayPhoneNumber": true
+  }
+ ],
+ "officeHours": [
+  {
+   "day": "Monday to Friday",
+   "opensAt": "09:00",
+   "closesAt": "16:00",
+   "isOpen": true
+  },
+  {
+   "day": "Saturdays",
+   "opensAt": "09:00",
+   "closesAt": "12:00",
+   "isOpen": true
+  }
+ ],
+ "openState": 0,
+ "opensAt": "09:00",
+ "closesAt": "16:00",
+ "nextOpenDay": "09:00",
+ "galleryModel": {
+  "galleryImages": [
+   {
+    "imageUrl": "https://img.autotrader.co.za/50370103",
+    "breakoutImageUrl": "https://img.autotrader.co.za/50370103/Crop315x235",
+    "thumbnailImageUrl": "https://img.autotrader.co.za/50370103/Crop106x65",
+    "gridImageUrl": "https://img.autotrader.co.za/50370103/Fit508x373",
+    "originalImageUrl": "https://img.autotrader.co.za/50370103",
+    "imageId": 359755295,
+    "gridImageBigUrl": "https://img.autotrader.co.za/50370103/Fit1020x680"
+   },
+   {
+    "imageUrl": "https://img.autotrader.co.za/50370118",
+    "breakoutImageUrl": "https://img.autotrader.co.za/50370118/Crop315x235",
+    "thumbnailImageUrl": "https://img.autotrader.co.za/50370118/Crop106x65",
+    "gridImageUrl": "https://img.autotrader.co.za/50370118/Fit508x373",
+    "originalImageUrl": "https://img.autotrader.co.za/50370118",
+    "imageId": 359755320,
+    "gridImageBigUrl": "https://img.autotrader.co.za/50370118/Fit1020x680"
+   },
+   {
+    "imageUrl": "https://img.autotrader.co.za/49740839",
+    "breakoutImageUrl": "https://img.autotrader.co.za/49740839/Crop315x235",
+    "thumbnailImageUrl": "https://img.autotrader.co.za/49740839/Crop106x65",
+    "gridImageUrl": "https://img.autotrader.co.za/49740839/Fit508x373",
+    "originalImageUrl": "https://img.autotrader.co.za/49740839",
+    "imageId": 351599552,
+    "gridImageBigUrl": "https://img.autotrader.co.za/49740839/Fit1020x680"
+   },
+   {
+    "imageUrl": "https://img.autotrader.co.za/49740840",
+    "breakoutImageUrl": "https://img.autotrader.co.za/49740840/Crop315x235",
+    "thumbnailImageUrl": "https://img.autotrader.co.za/49740840/Crop106x65",
+    "gridImageUrl": "https://img.autotrader.co.za/49740840/Fit508x373",
+    "originalImageUrl": "https://img.autotrader.co.za/49740840",
+    "imageId": 351599553,
+    "gridImageBigUrl": "https://img.autotrader.co.za/49740840/Fit1020x680"
+   },
+   {
+    "imageUrl": "https://img.autotrader.co.za/50370102",
+    "breakoutImageUrl": "https://img.autotrader.co.za/50370102/Crop315x235",
+    "thumbnailImageUrl": "https://img.autotrader.co.za/50370102/Crop106x65",
+    "gridImageUrl": "https://img.autotrader.co.za/50370102/Fit508x373",
+    "originalImageUrl": "https://img.autotrader.co.za/50370102",
+    "imageId": 359755294,
+    "gridImageBigUrl": "https://img.autotrader.co.za/50370102/Fit1020x680"
+   }
+  ],
+  "fullscreenTitle": "Dealer Gallery",
+  "favouritesSupported": false,
+  "favourite": false,
+  "placeHolderImageUrl": "/Common/Content/Images/NoImage/no-image-dealer-logo.svg?z=7b0c4e"
+ },
+ "hasWebsiteHref": true,
+ "h1": "Lusso Auto",
+ "metadata": {
+  "html": {
+   "title": "Lusso Auto dealership in Milnerton",
+   "description": "Lusso Auto dealership in Milnerton",
+   "canonicalUrl": "https://www.autotrader.co.za/dealer/lusso-auto/113036",
+   "noIndex": false,
+   "titleAppendAutoTrader": true,
+   "hasDescription": true,
+   "hasKeywords": false,
+   "hasCanonical": true,
+   "hasPreviousLink": false,
+   "hasNextLink": false
+  },
+  "openGraph": {
+   "title": "Lusso Auto dealership in Milnerton",
+   "description": "Lusso Auto dealership in Milnerton",
+   "url": "https://www.autotrader.co.za",
+   "hasTitle": true,
+   "hasDescription": true,
+   "hasUrl": true,
+   "hasType": false,
+   "hasImageUrl": false
+  },
+  "twitter": {
+   "card": "summary",
+   "site": "@AutoTraderSA",
+   "title": "Lusso Auto dealership in Milnerton",
+   "description": "Lusso Auto dealership in Milnerton",
+   "hasCard": true,
+   "hasSite": true,
+   "hasTitle": true,
+   "hasDescription": true,
+   "hasImage": false
+  },
+  "facebook": {
+   "domainVerification": "qrn39lbtgsde6tb7mrtg3y4jprmhnf"
+  },
+  "hasStructuredPageData": false
+ },
+ "breadcrumb": {
+  "breadcrumbs": [
+   {
+    "url": "/",
+    "title": "Cars for sale in South Africa - AutoTrader.co.za",
+    "text": "Home",
+    "addSeparator": false
+   },
+   {
+    "url": "/car-dealers",
+    "title": "Find car dealers in South Africa",
+    "text": "Car Dealers",
+    "addSeparator": false
+   },
+   {
+    "url": "/dealer/lusso-auto/113036?category=Cars",
+    "title": "Lusso Auto dealership in Milnerton",
+    "text": "Lusso Auto",
+    "addSeparator": false
+   }
+  ]
+ },
+ "rating": {
+  "score": 4.1,
+  "ratingCount": 10,
+  "showRating": true,
+  "hasRecentRating": true,
+  "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+ },
+ "ratingsAndReviewsModel": {
+  "showRatingsAndReview": true,
+  "ratingModel": {
+   "score": 4.1,
+   "ratingCount": 10,
+   "showRating": true,
+   "hasRecentRating": true,
+   "landingPageUrl": "/ratings-and-reviews-on-autotrader"
+  },
+  "reviewsAndReplies": [
+   {
+    "review": {
+     "id": 97104,
+     "userName": "AutoTrader Customer",
+     "userEmailAddress": "sha****@****",
+     "date": "17 August 2026",
+     "title": "No response at all.. ",
+     "feedback": "No response at all… business must be good if they don’t feel the need to contact clients ",
+     "rating": 1
+    },
+    "replies": [
+     {
+      "date": "17 August 2026",
+      "commenter": "Lusso Auto",
+      "comment": "Hi Shaun - thank you for bringing this to our attention. I went back now on the leads received from Autotrader for the month of August 2026 and could not find it. I found the lead in my 'spambucket\" . I apologize for this as it is not our standard.",
+      "isDealerComment": true
+     }
+    ],
+    "totalReplies": 1
+   },
+   {
+    "review": {
+     "id": 91781,
+     "userName": "AutoTrader Customer",
+     "userEmailAddress": "van****@****",
+     "date": "27 June 2026",
+     "title": "Cape experience.",
+     "feedback": "What a pleasure to do business with qualified,experienced and the friendliest people ever!!Awesome meeting you guys!",
+     "rating": 10
+    },
+    "replies": [
+     {
+      "date": "29 June 2026",
+      "commenter": "Lusso Auto",
+      "comment": "Thank you very much for the rating. Thank you for selling us your beautiful Cruiser and trusting with the whole process. ",
+      "isDealerComment": true
+     }
+    ],
+    "totalReplies": 1
+   }
+  ],
+  "totalReviews": 10,
+  "ratingPercentages": [
+   10,
+   0,
+   0,
+   0,
+   90
+  ],
+  "searchQuery": {
+   "dealerId": 113036,
+   "dealerName": "Lusso Auto",
+   "sortOrder": 1,
+   "take": 2
+  },
+  "ratings": [
+   {
+    "value": 1,
+    "text": "1 Star"
+   },
+   {
+    "value": 2,
+    "text": "2 Stars"
+   },
+   {
+    "value": 3,
+    "text": "3 Stars"
+   },
+   {
+    "value": 4,
+    "text": "4 Stars"
+   },
+   {
+    "value": 5,
+    "text": "5 Stars"
+   }
+  ],
+  "sortOrders": [
+   {
+    "value": 1,
+    "text": "Newest first"
+   },
+   {
+    "value": 2,
+    "text": "Oldest first"
+   },
+   {
+    "value": 3,
+    "text": "High to Low Rating"
+   },
+   {
+    "value": 4,
+    "text": "Low to High Rating"
+   }
+  ]
+ },
+ "contactSeller": {
+  "dealerId": 113036,
+  "canShowSendMessage": true,
+  "sendContactMessage": {
+   "dealerId": 113036,
+   "fullName": "",
+   "mobileNumber": "",
+   "message": "Hi, I have a question and would appreciate it if you could get in touch.",
+   "dealerName": "Lusso Auto",
+   "dealerPageLink": "/dealer/lusso-auto/113036?category=Cars",
+   "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915",
+   "showDealerName": true,
+   "instantOfferUrl": "/sell-my-Car",
+   "insuranceUrl": "https://www.autotrader.co.za/car-insurance?utm_source=autotrader&utm_medium=website&utm_campaign=insurance-link",
+   "dealerChannel": 1,
+   "userSubmittedNetPromoterScore": false
+  },
+  "showDealerWhatsAppButton": true,
+  "dealerSendWhatsAppContactMessage": {
+   "dealerId": 113036,
+   "whatsAppFormModel": {
+    "fullName": "",
+    "mobileNumber": ""
+   },
+   "name": "Lusso Auto",
+   "logoUrl": "https://img.autotrader.co.za/29733915",
+   "hasWhatsAppNumber": true,
+   "displayPhoneNumber": true
+  },
+  "showContactSalesRepresentativeWhatsAppButton": true,
+  "salesRepresentativeSendWhatsAppContactMessage": [
+   {
+    "dealerId": 113036,
+    "whatsAppFormModel": {
+     "fullName": "",
+     "mobileNumber": ""
+    },
+    "name": "Fay Sakir",
+    "logoUrl": "https://img.autotrader.co.za/46352222/Fit140x182",
+    "salesRepresentativeId": 11575,
+    "hasWhatsAppNumber": true,
+    "displayPhoneNumber": true
+   },
+   {
+    "dealerId": 113036,
+    "whatsAppFormModel": {
+     "fullName": "",
+     "mobileNumber": ""
+    },
+    "name": "Riccardo Pantolone",
+    "logoUrl": "https://img.autotrader.co.za/46743120/Fit140x182",
+    "salesRepresentativeId": 11576,
+    "hasWhatsAppNumber": true,
+    "displayPhoneNumber": true
+   }
+  ],
+  "canShowVisitButton": true
+ },
+ "sendContactMessage": {
+  "dealerId": 113036,
+  "fullName": "",
+  "mobileNumber": "",
+  "message": "Hi, I have a question and would appreciate it if you could get in touch.",
+  "dealerName": "Lusso Auto",
+  "dealerPageLink": "/dealer/lusso-auto/113036?category=Cars",
+  "dealerLogoImageUrl": "https://img.autotrader.co.za/29733915",
+  "showDealerName": true,
+  "instantOfferUrl": "/sell-my-Car",
+  "insuranceUrl": "https://www.autotrader.co.za/car-insurance?utm_source=autotrader&utm_medium=website&utm_campaign=insurance-link",
+  "dealerChannel": 1,
+  "userSubmittedNetPromoterScore": false
+ },
+ "buyingPower": {
+  "rates": [
+   {
+    "creditRating": 1,
+    "value": 7.5,
+    "text": "7,5 %"
+   },
+   {
+    "creditRating": 1,
+    "value": 7.75,
+    "text": "7,75 %"
+   },
+   {
+    "creditRating": 1,
+    "value": 8,
+    "text": "8,00 %"
+   },
+   {
+    "creditRating": 1,
+    "value": 8.25,
+    "text": "8,25 %"
+   },
+   {
+    "creditRating": 1,
+    "value": 8.5,
+    "text": "8,50 %"
+   },
+   {
+    "creditRating": 1,
+    "value": 8.75,
+    "text": "8,75 %"
+   },
+   {
+    "creditRating": 1,
+    "value": 9,
+    "text": "9,00 %"
+   },
+   {
+    "creditRating": 1,
+    "value": 9.25,
+    "text": "9,25 %"
+   },
+   {
+    "creditRating": 1,
+    "value": 9.5,
+    "text": "9,50 %"
+   },
+   {
+    "creditRating": 1,
+    "value": 9.75,
+    "text": "9,75 %"
+   },
+   {
+    "creditRating": 1,
+    "value": 10,
+    "text": "10,00 %"
+   },
+   {
+    "creditRating": 1,
+    "value": 10.25,
+    "text": "10,25 %"
+   },
+   {
+    "creditRating": 2,
+    "value": 10.5,
+    "text": "10,50 %"
+   },
+   {
+    "creditRating": 2,
+    "value": 10.75,
+    "text": "10,75 %"
+   },
+   {
+    "creditRating": 2,
+    "value": 11,
+    "text": "11,00 %"
+   },
+   {
+    "creditRating": 2,
+    "value": 11.25,
+    "text": "11,25 %"
+   },
+   {
+    "creditRating": 2,
+    "value": 11.5,
+    "text": "11,50 %"
+   },
+   {
+    "creditRating": 2,
+    "value": 11.75,
+    "text": "11,75 %"
+   },
+   {
+    "creditRating": 3,
+    "value": 12,
+    "text": "12,00 %"
+   },
+   {
+    "creditRating": 3,
+    "value": 12.25,
+    "text": "12,25 %"
+   },
+   {
+    "creditRating": 3,
+    "value": 12.5,
+    "text": "12,50 %"
+   },
+   {
+    "creditRating": 3,
+    "value": 12.75,
+    "text": "12,75 %"
+   },
+   {
+    "creditRating": 3,
+    "value": 13,
+    "text": "13,00 %"
+   },
+   {
+    "creditRating": 4,
+    "value": 13.25,
+    "text": "13,25 %"
+   },
+   {
+    "creditRating": 4,
+    "value": 13.5,
+    "text": "13,50 %"
+   },
+   {
+    "creditRating": 5,
+    "value": 13.75,
+    "text": "13,75 %"
+   },
+   {
+    "creditRating": 5,
+    "value": 14,
+    "text": "14,00 %"
+   },
+   {
+    "creditRating": 5,
+    "value": 14.25,
+    "text": "14,25 %"
+   },
+   {
+    "creditRating": 6,
+    "value": 14.5,
+    "text": "14,50 %"
+   },
+   {
+    "creditRating": 6,
+    "value": 14.75,
+    "text": "14,75 %"
+   },
+   {
+    "creditRating": 6,
+    "value": 15,
+    "text": "15,00 %"
+   },
+   {
+    "creditRating": 7,
+    "value": 15.25,
+    "text": "15,25 %"
+   },
+   {
+    "creditRating": 7,
+    "value": 15.5,
+    "text": "15,50 %"
+   },
+   {
+    "creditRating": 7,
+    "value": 15.75,
+    "text": "15,75 %"
+   },
+   {
+    "creditRating": 7,
+    "value": 16,
+    "text": "16,00 %"
+   },
+   {
+    "creditRating": 7,
+    "value": 16.25,
+    "text": "16,25 %"
+   }
+  ],
+  "terms": [
+   {
+    "value": 24,
+    "text": "24 months"
+   },
+   {
+    "value": 36,
+    "text": "36 months"
+   },
+   {
+    "value": 48,
+    "text": "48 months"
+   },
+   {
+    "value": 54,
+    "text": "54 months"
+   },
+   {
+    "value": 60,
+    "text": "60 months"
+   },
+   {
+    "value": 72,
+    "text": "72 months"
+   },
+   {
+    "value": 84,
+    "text": "84 months"
+   }
+  ],
+  "buyingPowerUpdate": {
+   "rate": 10.5,
+   "term": 72,
+   "deposit": 35000,
+   "monthlyRepayment": 72,
+   "useTrade": false,
+   "trade": 0
+  }
+ },
+ "distanceFromUserModel": {
+  "userHasGeolocation": false,
+  "geolocation": {
+   "latitude": -33.913475,
+   "longitude": 18.488085
+  }
+ },
+ "enableProfileLeads": true,
+ "alertModel": {
+  "criteriaItems": [
+   0,
+   1,
+   4,
+   20,
+   21,
+   8,
+   9,
+   7,
+   5,
+   3,
+   6,
+   11,
+   29,
+   10,
+   12,
+   14,
+   13,
+   15,
+   16,
+   22,
+   24,
+   25,
+   27,
+   28,
+   26,
+   34,
+   35,
+   36
+  ],
+  "vehicleSubCategories": [],
+  "vehicleBodytypes": [],
+  "transmissionDriveTypes": [],
+  "fuelTypes": [],
+  "colours": [],
+  "category": "Cars",
+  "isDemo": false,
+  "isCertifiedUsed": false,
+  "specialTypes": [],
+  "numberOfSeats": [],
+  "popularFeatures": []
+ }
+}

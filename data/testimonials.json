@@ -1,0 +1,40 @@
+{
+  "note": "Only genuine, attributable public text. Wording is quoted exactly (whitespace normalised). Nothing is paraphrased into a testimonial.",
+  "reviews": [
+    {
+      "id": "autotrader-91781",
+      "platform": "AutoTrader",
+      "url": "https://www.autotrader.co.za/dealer/lusso-auto/113036",
+      "date": "2026-06-27",
+      "author": "AutoTrader customer",
+      "rating": { "value": 10, "scale": 10 },
+      "title": "Cape experience.",
+      "text": "What a pleasure to do business with qualified,experienced and the friendliest people ever!!Awesome meeting you guys!",
+      "context": "Lusso's public reply thanks the reviewer for selling them a Land Cruiser — i.e. a customer who sold a car to Lusso.",
+      "retrievedAt": "2026-09-22",
+      "use": true
+    },
+    {
+      "id": "autotrader-97104",
+      "platform": "AutoTrader",
+      "date": "2026-08-17",
+      "author": "AutoTrader customer",
+      "rating": { "value": 1, "scale": 10 },
+      "text": "No response at all… business must be good if they don’t feel the need to contact clients",
+      "context": "Lusso replied the same day: the AutoTrader lead had landed in a spam folder; apologised.",
+      "retrievedAt": "2026-09-22",
+      "use": false,
+      "reason": "Recorded for completeness in the audit; the site does not display ratings summaries."
+    }
+  ],
+  "messagesToArno": {
+    "source": "https://lussoauto.co.za/ — 'Our Happy Clients!' section",
+    "context": "Messages published by Lusso from clients when Arno left Scuderia (Ferrari) to found Lusso. No names are published, so none are shown.",
+    "items": [
+      "You are the only reason I have stayed with Ferrari over the years. You treat each of your clients like a friend with impeccable service.",
+      "Good luck on all and I think you will be an asset to the high end car market!",
+      "Thank you once again for my F12, beautiful car"
+    ],
+    "excerpting": "Each item is a verbatim contiguous excerpt from a longer message."
+  }
+}

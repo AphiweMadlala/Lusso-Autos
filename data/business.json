@@ -1,0 +1,197 @@
+{
+  "lastVerifiedAt": "2026-09-22",
+  "name": {
+    "value": "Lusso Auto",
+    "tradingAs": "Lusso Auto — Exclusive Collection",
+    "sources": [
+      "https://www.autotrader.co.za/dealer/lusso-auto/113036 (dealer name 'Lusso Auto')",
+      "https://lussoauto.co.za/ (site title 'Lusso Auto – Exclusive Collection'; logo lockup 'LA / EXCLUSIVE COLLECTION')"
+    ],
+    "notes": "Listing copy (Sept 2026) also says 'Presented by Lusso Auto Investments' — likely the legal entity; not used in the site until the client confirms.",
+    "confidence": "high"
+  },
+  "founded": {
+    "value": "March 2024",
+    "sources": [
+      "https://www.cars.co.za/motoring-news/profile-lusso-auto-in-cape-town/268096/ (Wilhelm Lutjeharms, 19 Jun 2024)"
+    ],
+    "confidence": "high"
+  },
+  "founder": {
+    "value": "Arno Cloete",
+    "role": "CEO and Founder",
+    "sources": [
+      "https://lussoauto.co.za/about-us/",
+      "https://lussoauto.co.za/contact-us/",
+      "https://www.cars.co.za/motoring-news/profile-lusso-auto-in-cape-town/268096/"
+    ],
+    "confidence": "high"
+  },
+  "showroom": {
+    "display": "Northgate Business Park, Milnerton, Cape Town",
+    "area": "Northgate Business Park",
+    "city": "Milnerton, Cape Town",
+    "streetAddress": null,
+    "geo": {
+      "lat": -33.913475,
+      "lng": 18.488085,
+      "source": "AutoTrader dealer profile map coordinates"
+    },
+    "sources": [
+      "https://www.autotrader.co.za/dealer/lusso-auto/113036 — suburb 'Northgate Business Park', city 'Milnerton' (retrieved 2026-09-22; dealer listings updated 1–21 Sept 2026)"
+    ],
+    "conflicts": [
+      "https://lussoauto.co.za/contact-us/ (page last modified 2026-06-15) says 'Cape Town, CBD, South Africa'.",
+      "Cars.co.za profile (19 Jun 2024) places the showroom in Cape Town's CBD."
+    ],
+    "resolution": "AutoTrader is the dealer-maintained, currently active profile with map coordinates. Photography corroborates a recent move: every car listed on lussoauto.co.za up to July 2026 (e.g. SF90 Stradale, 296 GTS, GTC4Lusso, California 30) was photographed in a concrete-pillared space with city windows — matching the CBD description — while every car listed in September 2026 (Dino 308 GT4, 550 Maranello, Macan, SVR, 320d, and all AutoTrader-only stock) is photographed in a black steel-clad hall. The contact page still saying 'CBD' was last edited 15 June 2026, before the move. No street address is published anywhere, so none is shown. MUST be confirmed by the client before launch.",
+    "confidence": "medium"
+  },
+  "viewing": {
+    "value": "Viewing strictly by appointment",
+    "sources": [
+      "Every current AutoTrader listing description (Sept 2026): 'BY APPOINTMENT ONLY' / 'Viewing strictly by appointment only.'",
+      "Cars.co.za profile quote: 'If you want to view a car, you make an appointment.'"
+    ],
+    "confidence": "high"
+  },
+  "hours": {
+    "display": null,
+    "candidates": [
+      {
+        "value": "Mon–Fri 09:00–16:00; Sat 09:00–12:00; Sun & public holidays closed",
+        "source": "AutoTrader dealer profile (retrieved 2026-09-22)"
+      },
+      {
+        "value": "Mon–Fri 8am–5pm",
+        "source": "lussoauto.co.za site footer (all pages)"
+      }
+    ],
+    "resolution": "UNRESOLVED — the two Lusso-controlled sources disagree. The site shows 'Viewing by appointment' (verified) instead of hours until the client confirms.",
+    "confidence": "unresolved"
+  },
+  "phone": {
+    "primary": {
+      "e164": "+27760799966",
+      "display": "+27 76 079 9966",
+      "person": "Arno Cloete"
+    },
+    "sources": [
+      "https://lussoauto.co.za/contact-us/ ('+27 76 0799 966 - Arno Cloete')",
+      "https://lussoauto.co.za/bc-lusso-arno/ (tel:+27760799966)",
+      "lussoauto.co.za footer 'Phone: +27 76 0799 966'"
+    ],
+    "confidence": "high"
+  },
+  "whatsapp": {
+    "e164": "+27760799966",
+    "url": "https://wa.me/27760799966",
+    "basis": "AutoTrader shows WhatsApp enabled for the dealership and for each sales representative (numbers are hidden behind a click). The WhatsApp number is assumed to equal Arno's published mobile — NOT independently verified.",
+    "confidence": "medium — confirm with client"
+  },
+  "email": {
+    "general": "info@lussoauto.co.za",
+    "primary": "arno@lussoauto.co.za",
+    "sources": [
+      "lussoauto.co.za footer/contact (arno@lussoauto.co.za)",
+      "lussoauto.co.za vehicle pages 'Email: info@lussoauto.co.za'; about-us mailto:info@lussoauto.co.za"
+    ],
+    "confidence": "high"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/lussoautoexclusive/",
+    "facebook": "https://www.facebook.com/lussoautoexclusive",
+    "tiktok": "https://www.tiktok.com/@lussoautoexclusive",
+    "autotrader": "https://www.autotrader.co.za/dealer/lusso-auto/113036",
+    "sources": [
+      "lussoauto.co.za footer links (Instagram, Facebook)",
+      "Web search result for the TikTok profile"
+    ]
+  },
+  "services": {
+    "verified": [
+      {
+        "id": "buying",
+        "label": "Buying a special car",
+        "source": "lussoauto.co.za/about-us 'Buying your car'; current stock"
+      },
+      {
+        "id": "consignment",
+        "label": "Consigning and selling your car",
+        "source": "lussoauto.co.za/about-us 'Consigning and selling your car'"
+      },
+      {
+        "id": "outright-purchase",
+        "label": "Buying your car from you",
+        "source": "lussoauto.co.za/selling 'We are a professional car buying service…'; AutoTrader review reply 'Thank you for selling us your beautiful Cruiser'"
+      },
+      {
+        "id": "sourcing",
+        "label": "Sourcing of special cars",
+        "source": "lussoauto.co.za/about-us 'Sourcing of special cars' / 'Special car sourcing — Send us a request'"
+      },
+      {
+        "id": "placement",
+        "label": "Placement of cars",
+        "source": "lussoauto.co.za/about-us"
+      },
+      {
+        "id": "detailing",
+        "label": "Paint correction, detailing and protection-film fitment",
+        "source": "lussoauto.co.za/about-us 'Paint corrections on cars', 'Detailing of cars', 'Vehicle protection film fitment'"
+      },
+      {
+        "id": "finance",
+        "label": "Finance through all major banks",
+        "source": "Every current listing: 'Finance available through all major banks.'"
+      },
+      {
+        "id": "trade-ins",
+        "label": "Selected trade-ins welcome",
+        "source": "Every current listing: 'Selected trade-ins welcome.'"
+      },
+      {
+        "id": "private-viewing",
+        "label": "Private viewings by appointment",
+        "source": "Current listings + Cars.co.za quote"
+      }
+    ],
+    "notClaimed": [
+      "international import",
+      "delivery",
+      "guaranteed sourcing",
+      "in-house warranties",
+      "specific finance terms or rates"
+    ]
+  },
+  "positioning": {
+    "ownWords": [
+      {
+        "text": "Where passion for cars meets integrity in customer relationships.",
+        "source": "lussoauto.co.za home/about"
+      },
+      {
+        "text": "Every Lusso Auto vehicle is inspected, road tested and honestly represented. If a vehicle has cosmetic imperfections or modifications, we disclose them upfront.",
+        "source": "AutoTrader dealer 'About us'"
+      },
+      {
+        "text": "We don't simply sell cars—we curate collections and build long-term relationships with enthusiasts throughout South Africa.",
+        "source": "AutoTrader dealer 'About us'"
+      }
+    ],
+    "avoid": [
+      "'Cape Town's #1'",
+      "'Cape Town's boutique supercar specialist' as an unqualified superlative — it is Lusso's own claim, used only as self-description if at all"
+    ]
+  },
+  "ratings": {
+    "autotrader": {
+      "score": 4.1,
+      "count": 10,
+      "source": "https://www.autotrader.co.za/dealer/lusso-auto/113036",
+      "retrievedAt": "2026-09-22",
+      "display": false,
+      "reason": "Aggregate shown on AutoTrader only; the site quotes individual reviews instead of a star badge."
+    }
+  }
+}

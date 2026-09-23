@@ -1,0 +1,308 @@
+{
+  "generatedAt": "2026-09-23",
+  "conflicts": [
+    {
+      "vehicle": "at-28749095",
+      "field": "year",
+      "values": [
+        {
+          "source": "AutoTrader registration year",
+          "value": 2016
+        },
+        {
+          "source": "Dealer description headline",
+          "value": 2018
+        }
+      ],
+      "resolution": "Displayed 2016 (structured registration-year field). Needs client confirmation."
+    },
+    {
+      "vehicle": "at-28731371",
+      "field": "year",
+      "values": [
+        {
+          "source": "AutoTrader registration year",
+          "value": 1977
+        },
+        {
+          "source": "Dealer description headline",
+          "value": 1974
+        }
+      ],
+      "resolution": "Displayed 1977 (structured registration-year field, matches Lusso site page title). Needs client confirmation."
+    },
+    {
+      "vehicle": "at-28724901",
+      "field": "year",
+      "values": [
+        {
+          "source": "AutoTrader registration year",
+          "value": 2016
+        },
+        {
+          "source": "Dealer description headline",
+          "value": 2017
+        }
+      ],
+      "resolution": "Displayed 2016 (structured registration-year field, matches Lusso site page title). Needs client confirmation."
+    },
+    {
+      "vehicle": "at-28610360",
+      "field": "mileageKm",
+      "values": [
+        {
+          "source": "AutoTrader (last updated 09 September 2026)",
+          "value": 33500
+        },
+        {
+          "source": "Lusso site https://lussoauto.co.za/2022-bmw-2-series-m240i-xdrive-coupe/ (modified 2026-06-22)",
+          "value": 33000
+        }
+      ],
+      "resolution": "Displayed AutoTrader value — the more recently updated listing."
+    },
+    {
+      "vehicle": "at-28610360",
+      "field": "priceZAR",
+      "values": [
+        {
+          "source": "AutoTrader",
+          "value": 899000
+        },
+        {
+          "source": "Lusso site https://lussoauto.co.za/2022-bmw-2-series-m240i-xdrive-coupe/ (modified 2026-06-22)",
+          "value": 979000
+        }
+      ],
+      "resolution": "Displayed AutoTrader price — the more recently updated listing."
+    },
+    {
+      "vehicle": "at-28628595",
+      "field": "mileageKm",
+      "values": [
+        {
+          "source": "AutoTrader (last updated 09 September 2026)",
+          "value": 7600
+        },
+        {
+          "source": "Lusso site https://lussoauto.co.za/2024-ferrari-296-gts/ (modified 2026-07-07)",
+          "value": 8100
+        }
+      ],
+      "resolution": "Displayed AutoTrader value — the more recently updated listing."
+    },
+    {
+      "vehicle": "site-2017-porsche-911-carrera-s-991-2",
+      "field": "status",
+      "values": [
+        {
+          "source": "lussoauto.co.za/buying (lists as stock)",
+          "value": "available"
+        },
+        {
+          "source": "AutoTrader",
+          "value": "linked AutoTrader listing is not in the current dealer inventory"
+        }
+      ],
+      "resolution": "Marked UNKNOWN; excluded from current collection until the client confirms."
+    },
+    {
+      "vehicle": "site-2012-ferrari-california-30-21",
+      "field": "status",
+      "values": [
+        {
+          "source": "lussoauto.co.za/buying (lists as stock)",
+          "value": "available"
+        },
+        {
+          "source": "AutoTrader",
+          "value": "linked AutoTrader listing returned 503"
+        }
+      ],
+      "resolution": "Marked UNKNOWN; excluded from current collection until the client confirms."
+    },
+    {
+      "vehicle": "site-2014-porsche-911-gt3",
+      "field": "status",
+      "values": [
+        {
+          "source": "lussoauto.co.za/buying (lists as stock)",
+          "value": "available"
+        },
+        {
+          "source": "AutoTrader",
+          "value": "linked AutoTrader listing returned 503"
+        }
+      ],
+      "resolution": "Marked UNKNOWN; excluded from current collection until the client confirms."
+    },
+    {
+      "vehicle": "site-2014-porsche-911-gt3-2",
+      "field": "status",
+      "values": [
+        {
+          "source": "lussoauto.co.za/buying (lists as stock)",
+          "value": "available"
+        },
+        {
+          "source": "AutoTrader",
+          "value": "linked AutoTrader listing returned 503"
+        }
+      ],
+      "resolution": "Marked UNKNOWN; excluded from current collection until the client confirms."
+    },
+    {
+      "vehicle": "site-audi-rs4-quattro",
+      "field": "status",
+      "values": [
+        {
+          "source": "lussoauto.co.za/buying (lists as stock)",
+          "value": "available"
+        },
+        {
+          "source": "AutoTrader",
+          "value": "linked AutoTrader listing returned 503"
+        }
+      ],
+      "resolution": "Marked UNKNOWN; excluded from current collection until the client confirms."
+    },
+    {
+      "vehicle": "site-2014-bmw-x6-xdrive35i-m-sport",
+      "field": "status",
+      "values": [
+        {
+          "source": "lussoauto.co.za/buying (lists as stock)",
+          "value": "available"
+        },
+        {
+          "source": "AutoTrader",
+          "value": "linked AutoTrader listing returned 503"
+        }
+      ],
+      "resolution": "Marked UNKNOWN; excluded from current collection until the client confirms."
+    },
+    {
+      "vehicle": "site-2019-mclaren-600lt-coupe",
+      "field": "status",
+      "values": [
+        {
+          "source": "lussoauto.co.za/buying (lists as stock)",
+          "value": "available"
+        },
+        {
+          "source": "AutoTrader",
+          "value": "linked AutoTrader listing returned 503"
+        }
+      ],
+      "resolution": "Marked UNKNOWN; excluded from current collection until the client confirms."
+    },
+    {
+      "vehicle": "site-2012-ferrari-california-30",
+      "field": "status",
+      "values": [
+        {
+          "source": "lussoauto.co.za/buying (lists as stock)",
+          "value": "available"
+        },
+        {
+          "source": "AutoTrader",
+          "value": "linked AutoTrader listing returned 503"
+        }
+      ],
+      "resolution": "Marked UNKNOWN; excluded from current collection until the client confirms."
+    },
+    {
+      "vehicle": "site-2022-land-rover-defender-110-v8-carpathian",
+      "field": "status",
+      "values": [
+        {
+          "source": "lussoauto.co.za/buying (lists as stock)",
+          "value": "available"
+        },
+        {
+          "source": "AutoTrader",
+          "value": "linked AutoTrader listing returned 503"
+        }
+      ],
+      "resolution": "Marked UNKNOWN; excluded from current collection until the client confirms."
+    },
+    {
+      "vehicle": "site-2023-jeep-wrangler-unlimited-3-6-rubicon",
+      "field": "status",
+      "values": [
+        {
+          "source": "lussoauto.co.za/buying (lists as stock)",
+          "value": "available"
+        },
+        {
+          "source": "AutoTrader",
+          "value": "linked AutoTrader listing is not in the current dealer inventory"
+        }
+      ],
+      "resolution": "Marked UNKNOWN; excluded from current collection until the client confirms."
+    },
+    {
+      "vehicle": "site-2017-mercedes-amg-c-class-c43-cabriolet-matic",
+      "field": "status",
+      "values": [
+        {
+          "source": "lussoauto.co.za/buying (lists as stock)",
+          "value": "available"
+        },
+        {
+          "source": "AutoTrader",
+          "value": "linked AutoTrader listing returned 503"
+        }
+      ],
+      "resolution": "Marked UNKNOWN; excluded from current collection until the client confirms."
+    },
+    {
+      "vehicle": "site-1983-lotus-esprit-s3",
+      "field": "status",
+      "values": [
+        {
+          "source": "lussoauto.co.za/buying (lists as stock)",
+          "value": "available"
+        },
+        {
+          "source": "AutoTrader",
+          "value": "linked AutoTrader listing returned 503"
+        }
+      ],
+      "resolution": "Marked UNKNOWN; excluded from current collection until the client confirms."
+    },
+    {
+      "vehicle": "site-2014-bentley-continental-convertible",
+      "field": "status",
+      "values": [
+        {
+          "source": "lussoauto.co.za/buying (lists as stock)",
+          "value": "available"
+        },
+        {
+          "source": "AutoTrader",
+          "value": "linked AutoTrader listing returned 503"
+        }
+      ],
+      "resolution": "Marked UNKNOWN; excluded from current collection until the client confirms."
+    }
+  ],
+  "warnings": [
+    "site-2017-porsche-911-carrera-s-991-2: status unknown — linked AutoTrader listing is not in the current dealer inventory (still linked from lussoauto.co.za/buying)",
+    "site-2012-ferrari-california-30-21: status unknown — linked AutoTrader listing returned 503 (still linked from lussoauto.co.za/buying)",
+    "site-2014-porsche-911-gt3: status unknown — linked AutoTrader listing returned 503 (still linked from lussoauto.co.za/buying)",
+    "site-2014-porsche-cayman-auto: status unknown — linked AutoTrader listing is not in the current dealer inventory",
+    "site-2014-porsche-911-gt3-2: status unknown — linked AutoTrader listing returned 503 (still linked from lussoauto.co.za/buying)",
+    "site-audi-rs4-quattro: status unknown — linked AutoTrader listing returned 503 (still linked from lussoauto.co.za/buying)",
+    "site-2014-bmw-x6-xdrive35i-m-sport: status unknown — linked AutoTrader listing returned 503 (still linked from lussoauto.co.za/buying)",
+    "site-2019-mclaren-600lt-coupe: status unknown — linked AutoTrader listing returned 503 (still linked from lussoauto.co.za/buying)",
+    "site-2012-ferrari-california-30: status unknown — linked AutoTrader listing returned 503 (still linked from lussoauto.co.za/buying)",
+    "site-2017-porsche-718-boxster-s-auto: status unknown — linked AutoTrader listing is not in the current dealer inventory",
+    "site-2022-land-rover-defender-110-v8-carpathian: status unknown — linked AutoTrader listing returned 503 (still linked from lussoauto.co.za/buying)",
+    "site-2023-jeep-wrangler-unlimited-3-6-rubicon: status unknown — linked AutoTrader listing is not in the current dealer inventory (still linked from lussoauto.co.za/buying)",
+    "site-2015-fiat-5001-2-pop: status unknown — linked AutoTrader listing is not in the current dealer inventory",
+    "site-2017-mercedes-amg-c-class-c43-cabriolet-matic: status unknown — linked AutoTrader listing returned 503 (still linked from lussoauto.co.za/buying)",
+    "site-1983-lotus-esprit-s3: status unknown — linked AutoTrader listing returned 503 (still linked from lussoauto.co.za/buying)",
+    "site-2014-bentley-continental-convertible: status unknown — linked AutoTrader listing returned 503 (still linked from lussoauto.co.za/buying)"
+  ]
+}

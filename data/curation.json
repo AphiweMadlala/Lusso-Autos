@@ -1,0 +1,125 @@
+{
+  "note": "Presentation decisions only — which verified vehicles/images to feature. Never adds facts. Every id here must exist in data/vehicles.json (validated at build).",
+  "reviewedAt": "2026-09-22",
+  "reviewMethod": "Visual contact-sheet review of every sold collector image against its Sold-page title (scripts/tools/contact-sheet.mjs).",
+  "soldFeatured": [
+    "sold-2019-ferrari-488-pista",
+    "sold-2018-porsche-911-gt3-rs",
+    "sold-2022-ferrari-f8-tributo",
+    "sold-2015-lamborghini-huracan-lp610-4",
+    "sold-ferrari-scuderia",
+    "sold-2017-ferrari-488-spider",
+    "sold-2015-mercedes-maybach-s-class-s600",
+    "sold-1966-ford-mustang-fastback-restomod",
+    "sold-2011-ferrari-458-italia",
+    "sold-2016-porsche-911-turbo-s-coupe",
+    "sold-2020-bentley-continental-gt-w12-convertible",
+    "sold-2013-ferrari-ff",
+    "sold-2005-mercedes-benz-sl65-amg",
+    "sold-2022-ferrari-f8-spider",
+    "sold-2016-mercedes-amg-g63-edition-463",
+    "sold-2017-ferrari-488-gtb",
+    "sold-2000-ferrari-360-modena",
+    "sold-2004-porsche-911-carrera-4s-996-auto",
+    "sold-ford-mustang-gt500",
+    "sold-2024-bmw-m3-competition-m-xdrive",
+    "sold-2017-audi-r8-coupe-5-2-v10-plus-quattro",
+    "sold-2005-alfa-romeo-147-3-2-gta",
+    "sold-2008-ferrari-f430-f1",
+    "sold-2012-ferrari-california"
+  ],
+  "soldExclude": {
+    "sold-6970": "Same photograph (identical SHA-256) as sold-8383 — the same Maybach S600 listed twice on the Sold page; the dated entry is kept."
+  },
+  "titleOverrides": {
+    "sold-ferrari-scuderia": {
+      "display": "Ferrari 430 Scuderia",
+      "evidence": "Photograph shows an F430 Scuderia (Scuderia side stripes, bonnet and bumper); Cars.co.za profile (19 Jun 2024) lists a 'Ferrari F430 Scuderia' in Lusso's inventory. Sold-page title reads only 'Ferrari Scuderia'."
+    },
+    "sold-2022-lambo-huracan-tecnica-v10": {
+      "display": "2022 Lamborghini Huracán Tecnica",
+      "evidence": "Sold-page title '2022 Lambo Huracan Tecnica V10' — spelling normalised only."
+    },
+    "sold-2015-lambo-huracan-in-v10": {
+      "display": "2015 Lamborghini Huracán",
+      "evidence": "Sold-page title '2015 Lambo Huracan in V10' — spelling normalised only."
+    },
+    "sold-ferrari-mondial": {
+      "display": "Ferrari Mondial",
+      "evidence": "Sold-page title 'ferrari mondial' — capitalisation only."
+    },
+    "sold-ferrari-f430-spider-1429": {
+      "display": "Ferrari F430 Spider",
+      "evidence": "Capitalisation only."
+    }
+  },
+  "home": {
+    "heroVehicle": "2000-ferrari-550-maranello",
+    "heroImageIndex": 2,
+    "arrivals": [
+      "2024-ferrari-296-gts",
+      "1977-ferrari-dino-308-gt4",
+      "2017-audi-r8-5-2-v10-plus-quattro"
+    ],
+    "featureVehicle": "2021-ferrari-sf90-stradale",
+    "featureImageIndex": 0,
+    "featureParagraphs": 2,
+    "featureTextSource": "From Lusso's listing notes.",
+    "founderQuote": {
+      "text": "If you want to view a car, you make an appointment. For the time that you are with me, it is only the 2 of us.",
+      "attribution": "Arno Cloete, speaking to Cars.co.za, June 2024",
+      "source": "https://www.cars.co.za/motoring-news/profile-lusso-auto-in-cape-town/268096/"
+    }
+  },
+  "about": {
+    "principlesQuote": {
+      "text": "remain humble, to be honest, and to build relationships with clients.",
+      "source": "https://www.cars.co.za/motoring-news/profile-lusso-auto-in-cape-town/268096/"
+    }
+  },
+  "images": {
+    "note": "Editorial image picks, chosen by visual review of full galleries. index is 0-based into the vehicle's published gallery.",
+    "mosaic": [
+      {
+        "vehicle": "2000-ferrari-550-maranello",
+        "index": 29,
+        "alt": "The open-gate six-speed manual shifter and cream leather of the 2000 Ferrari 550 Maranello"
+      },
+      {
+        "vehicle": "1977-ferrari-dino-308-gt4",
+        "index": 3,
+        "alt": "Ferrari Dino 308 GT4 in profile in the Lusso Auto showroom, with the mezzanine and illuminated LA sign behind"
+      },
+      {
+        "vehicle": "2024-ferrari-296-gts",
+        "index": 9,
+        "alt": "Ferrari 296 GTS facing the camera beneath the blue LA sign in Lusso's former concrete showroom"
+      },
+      {
+        "vehicle": "1977-ferrari-dino-308-gt4",
+        "index": 6,
+        "alt": "Analogue instruments of the Ferrari Dino 308 GT4"
+      },
+      {
+        "vehicle": "2021-ferrari-sf90-stradale",
+        "index": 26,
+        "alt": "Cockpit and steering wheel of the Ferrari SF90 Stradale"
+      },
+      {
+        "vehicle": "2000-ferrari-550-maranello",
+        "index": 9,
+        "alt": "Ferrari 550 Maranello in profile, with cars stored on the showroom mezzanine behind"
+      }
+    ],
+    "sell": {
+      "vehicle": "2024-ferrari-296-gts",
+      "index": 0,
+      "alt": "Ferrari 296 GTS presented in Lusso's concrete-pillared showroom"
+    },
+    "about": {
+      "vehicle": "1977-ferrari-dino-308-gt4",
+      "index": 2,
+      "alt": "Ferrari Dino 308 GT4 from the rear three-quarter in the Lusso Auto showroom"
+    }
+  }
+}

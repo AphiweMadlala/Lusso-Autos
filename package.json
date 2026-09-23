@@ -1,0 +1,20 @@
+{
+  "name": "lusso-auto-proposal",
+  "private": true,
+  "type": "module",
+  "description": "Proposal website for Lusso Auto — Exclusive Collection, Cape Town",
+  "scripts": {
+    "fetch:autotrader": "node scripts/fetch-autotrader.mjs",
+    "fetch:instagram": "node scripts/fetch-instagram.mjs",
+    "data:vehicles": "node scripts/build-vehicles.mjs",
+    "media": "node scripts/process-media.mjs",
+    "validate": "node scripts/validate.mjs",
+    "build": "node scripts/validate.mjs && node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "devDependencies": {
+    "@fontsource-variable/archivo": "^5.3.0",
+    "@phosphor-icons/core": "^2.1.1",
+    "sharp": "^0.34.5"
+  }
+}

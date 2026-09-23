@@ -1,0 +1,64 @@
+{
+  "lastVerifiedAt": "2026-09-22",
+  "currentAssociationEvidence": "Every current AutoTrader listing description (updated 1–21 Sept 2026) closes with 'Contact Arno, Riccardo or Fay today.' AutoTrader lists Riccardo and Fay as the dealership's sales representatives (WhatsApp enabled).",
+  "members": [
+    {
+      "id": "arno-cloete",
+      "name": "Arno Cloete",
+      "role": "CEO and Founder",
+      "phone": { "e164": "+27760799966", "display": "+27 76 079 9966" },
+      "whatsapp": null,
+      "email": "arno@lussoauto.co.za",
+      "photo": null,
+      "sources": [
+        "https://lussoauto.co.za/contact-us/ — '+27 76 0799 966 - Arno Cloete' (modified 2026-06-15)",
+        "https://lussoauto.co.za/bc-lusso-arno/ — tel:+27760799966, mailto:arno@lussoauto.co.za",
+        "https://lussoauto.co.za/about-us/ — role 'CEO and Founder' (first team column, photo arno4.png)",
+        "https://www.cars.co.za/motoring-news/profile-lusso-auto-in-cape-town/268096/ — founder profile"
+      ],
+      "notes": "WhatsApp on this number is plausible (AutoTrader shows WhatsApp for the dealership) but not independently verified, so the site links WhatsApp at the dealership level only. Photo: the only published portrait is a 2024 graphic with the LA logo overlaid across the person — not used.",
+      "confidence": "high"
+    },
+    {
+      "id": "fay-sakir",
+      "name": "Fay Sakir",
+      "role": "Account Manager",
+      "phone": { "e164": "+27615807236", "display": "+27 61 580 7236" },
+      "whatsapp": null,
+      "email": "fay@lussoauto.co.za",
+      "photo": null,
+      "sources": [
+        "https://lussoauto.co.za/contact-us/ — '+27 61 580 7236 - Fay Sakir'",
+        "https://lussoauto.co.za/bc-lusso-fay/ — tel:+27615807236, mailto:fay@lussoauto.co.za",
+        "https://lussoauto.co.za/about-us/ — role 'Account Manager' (second team column, photo Fay-Sample-1.jpg)",
+        "AutoTrader sales representative 'Fay Sakir' (id 11575, WhatsApp enabled)"
+      ],
+      "notes": "Role is inferred from column order on the About page (roles and photos are separate widgets in the same order) — medium confidence on the role, high on name and contact.",
+      "confidence": "high (name/contact), medium (role)"
+    },
+    {
+      "id": "riccardo",
+      "name": "Riccardo Pantalone",
+      "nameConflict": {
+        "values": [
+          { "value": "Riccardo Pantalone", "source": "https://lussoauto.co.za/contact-us/ (Lusso's own site)" },
+          { "value": "Riccardo Pantolone", "source": "AutoTrader sales representative profile (id 11576)" }
+        ],
+        "resolution": "UNRESOLVED. The site shows first name only ('Riccardo') — which is how Lusso itself signs every listing — until the client confirms the surname spelling."
+      },
+      "displayName": "Riccardo",
+      "role": "Sales Manager",
+      "phone": { "e164": "+27646812010", "display": "+27 64 681 2010" },
+      "whatsapp": null,
+      "email": "riccardo@lussoauto.co.za",
+      "photo": null,
+      "sources": [
+        "https://lussoauto.co.za/contact-us/ — '+27 64 681 2010 - Riccardo Pantalone'",
+        "https://lussoauto.co.za/bc-lusso-riccardo/ — tel:+27646812010, mailto:riccardo@lussoauto.co.za",
+        "https://lussoauto.co.za/about-us/ — role 'Sales Manager' (third team column, photo Riccardo-Sample-1.jpg)"
+      ],
+      "notes": "Role inferred from About-page column order (medium).",
+      "confidence": "high (first name/contact), medium (role), unresolved (surname spelling)"
+    }
+  ]
+}
