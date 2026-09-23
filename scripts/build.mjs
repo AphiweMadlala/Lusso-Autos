@@ -63,6 +63,7 @@ const data = {
   mosaic: curation.images.mosaic.map(resolveImage),
   sellImage: resolveImage(curation.images.sell),
   aboutImage: resolveImage(curation.images.about),
+  servicesImage: resolveImage(curation.images.aboutServices),
 };
 
 // ---------------------------------------------------------------- output
@@ -97,7 +98,7 @@ await cp(path('src/brand/'), path('dist/brand/'), { recursive: true });
 await mkdir(path('dist/fonts/'), { recursive: true });
 await cp(path('node_modules/@fontsource-variable/archivo/files/archivo-latin-standard-normal.woff2'), path('dist/fonts/archivo-latin-standard-normal.woff2'));
 const usedDirs = new Set([...available, ...soldFeatured.map((s) => s.vehicle)].map((v) => v.images[0]?.src.split('/').slice(0, 3).join('/')));
-for (const ref of [...curation.images.mosaic, curation.images.sell, curation.images.about]) usedDirs.add(byId(ref.vehicle).images[0].src.split('/').slice(0, 3).join('/'));
+for (const ref of [...curation.images.mosaic, curation.images.sell, curation.images.about, curation.images.aboutServices]) usedDirs.add(byId(ref.vehicle).images[0].src.split('/').slice(0, 3).join('/'));
 for (const dir of usedDirs) await cp(path(`public/${dir}/`), path(`dist/${dir}/`), { recursive: true });
 
 await writeFile(path('dist/robots.txt'), config.PROPOSAL_MODE ? 'User-agent: *\nDisallow: /\n' : `User-agent: *\nAllow: /\nSitemap: ${config.SITE_URL}${config.BASE_PATH}sitemap.xml\n`);

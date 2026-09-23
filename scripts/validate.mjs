@@ -81,7 +81,7 @@ for (const s of Object.keys(curation.titleOverrides)) if (!slugs.has(s)) err(`cu
 for (const id of Object.keys(curation.soldExclude)) if (!ids.has(id)) err(`curation.soldExclude: unknown ${id}`);
 const homeRefs = [curation.home.heroVehicle, curation.home.featureVehicle, ...curation.home.arrivals];
 for (const s of homeRefs) { const v = vehicles.find((x) => x.slug === s); if (!v) err(`curation.home: unknown ${s}`); else if (v.status !== 'available') err(`curation.home: ${s} is ${v.status}, only available cars may be featured as current`); }
-for (const ref of [...curation.images.mosaic, curation.images.sell, curation.images.about]) {
+for (const ref of [...curation.images.mosaic, curation.images.sell, curation.images.about, curation.images.aboutServices]) {
   const v = vehicles.find((x) => x.slug === ref.vehicle);
   if (!v) err(`curation.images: unknown ${ref.vehicle}`); else if (!v.images?.[ref.index ?? 0]) err(`curation.images: ${ref.vehicle}#${ref.index} missing`);
   if (!ref.alt) err(`curation.images: ${ref.vehicle}#${ref.index} has no alt`);

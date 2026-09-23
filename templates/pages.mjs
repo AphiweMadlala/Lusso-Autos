@@ -156,7 +156,8 @@ export function collection(d) {
   const fuels = opts(available.map((v) => v.fuelType));
   const hasPoa = available.some((v) => v.priceOnApplication);
 
-  const cards = available.map((v, i) => {
+  const byPrice = [...available].sort((a, b) => (b.priceZAR ?? -1) - (a.priceZAR ?? -1));
+  const cards = byPrice.map((v, i) => {
     const search = [v.year, v.make, v.model, v.variant, v.exteriorColour, v.bodyType].join(' ').toLowerCase();
     return `<div data-order="${i}" data-make="${esc(v.make)}" data-body="${esc(v.bodyType)}" data-transmission="${esc(v.transmission)}" data-fuel="${esc(v.fuelType)}" data-price="${v.priceZAR ?? ''}" data-poa="${v.priceOnApplication}" data-year="${v.year}" data-mileage="${v.mileageKm ?? ''}" data-search="${esc(search)}"${i >= 12 ? ' hidden' : ''}>${vehicleCard(v, { eager: i < 3, headingLevel: 2 })}</div>`;
   }).join('');
@@ -169,10 +170,10 @@ ${intro({ title: 'The collection', lede: `${plural(available.length, 'car')} cur
       <div class="search"><label class="visually-hidden" for="q">Search by make, model or variant</label>${icon('magnifying-glass')}<input class="input" id="q" name="q" type="search" placeholder="Search make, model, variant" autocomplete="off"></div>
       <label class="visually-hidden" for="sort">Sort</label>
       <select class="select" id="sort" name="sort">
-        <option value="">Sort: Lusso's order</option>
+        <option value="price-desc" selected>Price, high to low</option>
         <option value="price-asc">Price, low to high</option>
-        <option value="price-desc">Price, high to low</option>
         <option value="mileage-asc">Mileage, lowest first</option>
+        <option value="mileage-desc">Mileage, highest first</option>
         <option value="year-desc">Year, newest first</option>
         <option value="year-asc">Year, oldest first</option>
       </select>
@@ -412,7 +413,7 @@ ${intro({ title: 'Tell us what you are looking for.', lede: 'Give us the model, 
 // ABOUT
 // =====================================================================================================
 export function about(d) {
-  const { business, team, testimonials, aboutImage, curation } = d;
+  const { business, team, testimonials, aboutImage, servicesImage, curation } = d;
   const q = curation.home.founderQuote;
   const principles = curation.about.principlesQuote;
   const review = testimonials.reviews.find((r) => r.use);
@@ -466,7 +467,10 @@ ${intro({ title: 'About Lusso Auto', lede: 'A Cape Town showroom for special car
 
 <section class="section seam" aria-labelledby="svc-title">
   <div class="wrap split">
-    <div class="split__main"><h2 class="title" id="svc-title">What we do</h2></div>
+    <div class="split__main">
+      <h2 class="title" id="svc-title">What we do</h2>
+      <div class="frame frame--4x3 svc-image">${img(servicesImage.image, { sizes: '(min-width: 1024px) 55vw, 100vw', alt: servicesImage.alt })}</div>
+    </div>
     <div class="split__aside"><ul class="steps">${business.services.verified.filter((s) => s.id !== 'private-viewing').map((s) => `<li><h3>${esc(s.label)}</h3></li>`).join('')}</ul></div>
   </div>
 </section>`;

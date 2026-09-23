@@ -1,5 +1,5 @@
 {
-  "startedAt": "2026-09-23T08:40:37.879Z",
+  "startedAt": "2026-09-23T09:22:27.395Z",
   "checks": [
     {
       "name": "sweep @375×812: 27 pages loaded",
@@ -120,6 +120,21 @@
       "name": "collection: mileage sort",
       "ok": true,
       "detail": ""
+    },
+    {
+      "name": "collection: mileage high→low sort",
+      "ok": true,
+      "detail": "139800,119750,103500,91000,90000,89000,76000,68500,68500,54450,53850,45700"
+    },
+    {
+      "name": "collection: mileage sort reflected in URL",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "collection: default sort is price high→low (no \"Lusso's order\")",
+      "ok": true,
+      "detail": "Price, high to low | Price, low to high | Mileage, lowest first | Mileage, highest first | Year, newest first | Year, oldest first"
     },
     {
       "name": "vehicle: POA vehicle shows \"Price on application\"",
@@ -279,7 +294,7 @@
     {
       "name": "home LCP < 2.5s (local, unthrottled)",
       "ok": true,
-      "detail": "{\"t\":136,\"el\":\"IMG\",\"url\":\"2000-ferrari-550-maranello/03-1600.webp\"}"
+      "detail": "{\"t\":140,\"el\":\"IMG\",\"url\":\"2000-ferrari-550-maranello/03-1600.webp\"}"
     },
     {
       "name": "home CLS < 0.1 (local)",
@@ -2557,9 +2572,9 @@
       "consoleErrors": []
     }
   },
-  "finishedAt": "2026-09-23T08:42:55.111Z",
+  "finishedAt": "2026-09-23T09:24:36.590Z",
   "summary": {
-    "checks": 57,
+    "checks": 60,
     "failures": 0,
     "pages": 27,
     "viewports": [

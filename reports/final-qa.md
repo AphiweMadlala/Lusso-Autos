@@ -15,7 +15,7 @@ node scripts/qa.mjs    # Playwright suite → reports/qa-results.json
 | Stage | Result |
 |---|---|
 | Data validation (`scripts/validate.mjs`) | **0 errors**, 26 warnings (201 vehicles, 623 media assets). Warnings listed below. |
-| Playwright functional suite (`scripts/qa.mjs`) | **57 / 57 checks pass** |
+| Playwright functional suite (`scripts/qa.mjs`) | **60 / 60 checks pass** |
 | Sitewide sweep: 27 pages × 7 viewports (189 page loads) | 0 broken images · 0 console errors · 0 horizontal overflow · 0 images missing `alt` · 0 images missing dimensions · 0 interactive targets < 24px (WCAG 2.2 AA minimum; the mobile enquiry bar is 56px) · 0 heading-level skips · exactly one `h1` per page · `noindex, nofollow` on every page |
 | Impeccable critique + polish | Done. Findings and what changed are listed below. |
 
@@ -26,7 +26,7 @@ Viewports: 375×812, 390×844, 430×932, 768×1024, 1024×768, 1440×900, 1920×
 | Area | Checks |
 |---|---|
 | Links | Internal links resolve (27 unique) · `tel:` well-formed (+27 76 079 9966, +27 61 580 7236, +27 64 681 2010) · WhatsApp `wa.me` well-formed (one number) · `mailto:` well-formed (info@, arno@, fay@, riccardo@) · unknown URL returns the 404 page with HTTP 404 |
-| Collection | First page shows 12 of 20 · "Show more" reveals the rest · filter panel toggles · make filter (6 Ferraris) · filter state written to the URL and restored on reload · price low→high with POA last · price high→low · mileage sort · search (4 results) · empty state · "Clear" restores results |
+| Collection | First page shows 12 of 20 · "Show more" reveals the rest · filter panel toggles · make filter (6 Ferraris) · filter state written to the URL and restored on reload · default sort is price high→low (POA last), with no "Lusso's order" option · price low→high with POA last · price high→low · mileage low→high and high→low (written to the URL) · search (4 results) · empty state · "Clear" restores results |
 | Vehicle page | POA car shows "Price on application" and no rand figure · similar vehicles are relevant (550 Maranello → Dino 308 GT4, SF90, GTC4Lusso, all Ferrari) |
 | Lightbox | Opens from lead image · focus moves into the dialog · body scroll locked · ArrowRight advances · ArrowLeft wraps to last · Tab focus trapped · Escape closes · focus returns to opener · scroll lock released · thumbnail opens at its own index |
 | Enquiry form | Empty submit shows errors · focus moves to first invalid field · valid submit composes a pre-filled WhatsApp message to Lusso (no fake backend) |

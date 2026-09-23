@@ -590,6 +590,7 @@ details.disclosure > div { padding-bottom: 24px; }
 .form__submit { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
 .form__note { font-size: 14px; color: var(--ink-3); max-width: 56ch; }
 .steps { display: grid; gap: 0; counter-reset: step; }
+.svc-image { margin-top: 28px; }
 .steps li { display: grid; gap: 6px; padding-block: 20px; border-top: 1px solid var(--hairline); }
 .steps li:last-child { border-bottom: 1px solid var(--hairline); }
 .steps h3 { font-stretch: 110%; font-size: 19px; }

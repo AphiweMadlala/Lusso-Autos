@@ -130,6 +130,15 @@ check('mailto: links well-formed', mail.length > 0 && mail.every((l) => /^mailto
   await page.selectOption('#sort', 'mileage-asc');
   const km = await page.$$eval('[data-collection] > *:not([hidden])', (els) => els.map((e) => +e.dataset.mileage));
   check('collection: mileage sort', km.every((k, i) => i === 0 || k >= km[i - 1]));
+  await page.selectOption('#sort', 'mileage-desc');
+  const kmd = await page.$$eval('[data-collection] > *:not([hidden])', (els) => els.map((e) => +e.dataset.mileage));
+  check('collection: mileage high→low sort', kmd.every((k, i) => i === 0 || k <= kmd[i - 1]), kmd.join(','));
+  check('collection: mileage sort reflected in URL', page.url().includes('sort=mileage-desc'));
+  await page.$eval('[data-collection-form]', (f) => f.reset());
+  await page.waitForTimeout(50);
+  const opts = await page.$$eval('#sort option', (o) => o.map((x) => x.textContent));
+  const dflt = await page.$$eval('[data-collection] > *:not([hidden])', (els) => els.map((e) => (e.dataset.price ? +e.dataset.price : null)));
+  check('collection: default sort is price high→low (no "Lusso\'s order")', !opts.some((t) => /Lusso/.test(t)) && (await page.$eval('#sort', (s) => s.value)) === 'price-desc' && dflt.filter((p) => p !== null).every((p, i, a) => i === 0 || p <= a[i - 1]) && !page.url().includes('sort='), opts.join(' | '));
   await ctx.close();
 }
 

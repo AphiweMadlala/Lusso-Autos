@@ -14,6 +14,7 @@ if (grid) {
   let shown = PAGE;
 
   const fields = ['q', 'make', 'body', 'transmission', 'fuel', 'price', 'year', 'sort'];
+  const DEFAULT_SORT = 'price-desc';
   const read = () => Object.fromEntries(fields.map((f) => [f, form.elements[f]?.value ?? '']));
 
   // Restore state from the URL.
@@ -55,17 +56,17 @@ if (grid) {
 
   // POA vehicles sort after priced ones in both price directions (no invented values).
   const sorters = {
-    '': (a, b) => Number(a.dataset.order) - Number(b.dataset.order),
     'price-asc': (a, b) => (Number(a.dataset.price) || Infinity) - (Number(b.dataset.price) || Infinity),
     'price-desc': (a, b) => (Number(b.dataset.price) || -1) - (Number(a.dataset.price) || -1),
-    'mileage-asc': (a, b) => Number(a.dataset.mileage) - Number(b.dataset.mileage),
+    'mileage-asc': (a, b) => (a.dataset.mileage === '' ? Infinity : Number(a.dataset.mileage)) - (b.dataset.mileage === '' ? Infinity : Number(b.dataset.mileage)),
+    'mileage-desc': (a, b) => (b.dataset.mileage === '' ? -1 : Number(b.dataset.mileage)) - (a.dataset.mileage === '' ? -1 : Number(a.dataset.mileage)),
     'year-desc': (a, b) => Number(b.dataset.year) - Number(a.dataset.year),
     'year-asc': (a, b) => Number(a.dataset.year) - Number(b.dataset.year),
   };
 
   function apply({ push = true } = {}) {
     const s = read();
-    const visible = cards.filter((c) => matches(c, s)).sort(sorters[s.sort] ?? sorters['']);
+    const visible = cards.filter((c) => matches(c, s)).sort(sorters[s.sort] ?? sorters[DEFAULT_SORT]);
     const hidden = cards.filter((c) => !visible.includes(c));
     visible.forEach((c, i) => { c.hidden = i >= shown; grid.appendChild(c); });
     hidden.forEach((c) => { c.hidden = true; });
@@ -76,7 +77,7 @@ if (grid) {
     if (moreBtn) moreBtn.textContent = `Show ${Math.min(PAGE, n - shown)} more`;
     if (push) {
       const q = new URLSearchParams();
-      for (const [k, v] of Object.entries(s)) if (v) q.set(k, v);
+      for (const [k, v] of Object.entries(s)) if (v && !(k === 'sort' && v === DEFAULT_SORT)) q.set(k, v);
       history.replaceState(null, '', `${location.pathname}${q.size ? `?${q}` : ''}`);
     }
   }
